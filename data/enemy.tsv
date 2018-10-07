@@ -1,0 +1,369 @@
+id	name	tag
+0	Test	bln
+1	Cowardly Maya	unk
+2	Selfish Basalt	unk
+3	Rainy Sister 4	unk
+4	Slipping Hablerie	unk
+5	Magic Hand	unk
+6	Dancing Hand	unk
+7	Killing Hand	unk
+8	Almighty Hand	unk
+9	Laughing Table	unk
+10	Crying Table	unk
+11	Angry Table	unk
+12	Sleeping Table	unk
+13	Magical Magus	unk
+14	Wondrous Magus	unk
+15	Prime Magus	unk
+16	Grand Magus	unk
+17	Lying Hablerie	unk
+18	Forgotten Hablerie	unk
+19	Flattering Hablerie	unk
+20	Agitating Hablerie	unk
+21	Merciless Maya	unk
+22	Autonomic Basalt	unk
+23	Rainy Brother 4	unk
+24	Slipping Hablerie	unk
+25	Cloudgirl Pot	unk
+26	Rainy Pot	unk
+27	Yearning Pot	unk
+28	Mistress Pot	unk
+29	Spurious Book	unk
+30	Maniacal Book	unk
+31	Silent Book	unk
+32	Wrathful Book	unk
+33	Tranquil Idol	unk
+34	Liberating Idol	unk
+35	Leading Idol	unk
+36	Vehement Idol	unk
+37	Primitive Idol	unk
+38	Calm Pesce	unk
+39	Pursuing Pesce	unk
+40	Truth Pesce	unk
+41	Revelation Pesce	unk
+42	Frivolous Maya	unk
+43	Idle Basalt	unk
+44	Rainy Sister 3	unk
+45	blank	inv
+46	Venus Eagle	unk
+47	Dark Eagle	unk
+48	Jupiter Eagle	unk
+49	Eternal Eagle	unk
+50	Creation Relic	unk
+51	Constancy Relic	unk
+52	Growth Relic	unk
+53	Change Relic	unk
+54	Elegant Mother	unk
+55	Regal Mother	unk
+56	Pistil Mother	unk
+57	Divine Mother	unk
+58	Secret Bambino	unk
+59	Blooming Bambino	unk
+60	Avarice Bambino	unk
+61	Free Bambino	unk
+62	Haughty Maya	unk
+63	Large Basalt	unk
+64	Rainy Brother 3	unk
+65	blank	inv
+66	Grave Beetle	unk
+67	Adamant Beetle	unk
+68	Strength Beetle	unk
+69	Emperor Beetle	unk
+70	Burning Beetle	unk
+71	Avenger Knight	unk
+72	Champion Knight	unk
+73	Hell Knight	unk
+74	Intrepid Knight	unk
+75	Rainy Castle	unk
+76	Power Castle	unk
+77	Raindrop Castle	unk
+78	King Castle	unk
+79	Positive King	unk
+80	Egotistical King	unk
+81	Great King	unk
+82	Brilliant King	unk
+83	Indolent Maya	unk
+84	Dependent Basalt	unk
+85	Rainy Sister 2	unk
+86	blank	inv
+87	Trance Twins	unk
+88	Killer Twins	unk
+89	Rainbow Twins	unk
+90	Crazy Twins	unk
+91	Corrupt Tower	unk
+92	Dogmatic Tower	unk
+93	Apostate Tower	unk
+94	Fanatic Tower	unk
+95	Grudge Tower	unk
+96	Blue Sigil	unk
+97	Red Sigil	unk
+98	Green Sigil	unk
+99	Purple Sigil	unk
+100	Bribed Fuzz	unk
+101	Persistent Fuzz	unk
+102	Monomaniac Fuzz	unk
+103	Chaos Fuzz	unk
+104	Insidious Maya	unk
+105	Anguish Basalt	unk
+106	Rainy Brother 2	unk
+107	blank	inv
+108	Possessive Cupid	unk
+109	Blind Cupid	unk
+110	Devoted Cupid	unk
+111	Gracious Cupid	unk
+112	Soul Dancer	unk
+113	Ardent Dancer	unk
+114	Royal Dancer	unk
+115	Natural Dancer	unk
+116	Harem Dancer	unk
+117	Lustful Snake	unk
+118	Immoral Snake	unk
+119	Carnal Snake	unk
+120	Amorous Snake	unk
+121	Stoic Snake	unk
+122	Whimsical Papillon	unk
+123	Finicky Papillon	unk
+124	Fickle Papillon	unk
+125	Pure Papillon	unk
+126	Ill-Fated Maya	unk
+127	Insolent Basalt	unk
+128	Rainy Sister 1	unk
+129	blank	inv
+130	Rain Wheel	unk
+131	Mach Wheel	unk
+132	Brave Wheel	unk
+133	Battle Wheel	unk
+134	Wild Drive	unk
+135	Killer Drive	unk
+136	Slaughter Drive	unk
+137	Rampage Drive	unk
+138	Arcane Turret	unk
+139	Scarlet Turret	unk
+140	Wicked Turret	unk
+141	Hallowed Turret	unk
+142	Spastic Turret	unk
+143	Berserk Turret	unk
+144	Dismayed Panzer	unk
+145	Rash Panzer	unk
+146	Conceited Panzer	unk
+147	Ptarmigan Panzer	unk
+148	Visceral Maya	unk
+149	Source Basalt	unk
+150	Rainy Brother 1	unk
+151	blank	inv
+152	Rain Leg Musha	unk
+153	Rain End Musha	unk
+154	Raindrop Musha	unk
+155	Rain Wind Musha	unk
+156	Daring Gigas	unk
+157	Beastly Gigas	unk
+158	Furious Gigas	unk
+159	Mythical Gigas	unk
+160	Immortal Gigas	unk
+161	Nizam Beast	unk
+162	Enslaved Beast	unk
+163	Mighty Beast	unk
+164	Nemean Beast	unk
+165	El Dorado Beast	unk
+166	Inviting Nyogo	unk
+167	Blossom Nyogo	unk
+168	Valuing Nyogo	unk
+169	Silent Nyogo	unk
+170	Desirous Maya	unk
+171	Submissive Basalt	unk
+172	Rainy Sister 2	unk
+173	blank	inv
+174	Black Raven	unk
+175	Vicious Raven	unk
+176	Sonic Raven	unk
+177	Amenti Raven	unk
+178	Phantom Mage	unk
+179	Phantom Master	unk
+180	Phantom Lord	unk
+181	Phantom King	unk
+182	Phantom Hero	unk
+183	Death Seeker	unk
+184	Fate Seeker	unk
+185	Noble Seeker	unk
+186	Acheron Seeker	unk
+187	Shallow Okina	unk
+188	Reckless Okina	unk
+189	Reformed Okina	unk
+190	Moon Okina	unk
+191	Imprudent Maya	unk
+192	Accidental Basalt	unk
+193	Rainy Brother 2	unk
+194	blank	inv
+195	Bronze Dice	unk
+196	Iron Dice	unk
+197	Silver Dice	unk
+198	Platinum Dice	unk
+199	Mind Dice	unk
+200	Curse Dice	unk
+201	Death Dice	unk
+202	Reckoning Dice	unk
+203	Flowing Sand	unk
+204	Perpetual Sand	unk
+205	Infinite Sand	unk
+206	Eternal Sand	unk
+207	Miss Gene	unk
+208	Fail Gene	unk
+209	Happy Gene	unk
+210	Next Gene	unk
+211	Bigoted Maya	unk
+212	Convicted Basalt	unk
+213	Rainy Sister 1	unk
+214	blank	inv
+215	Justice Sword	unk
+216	Conviction Sword	unk
+217	Judgment Sword	unk
+218	Doom Sword	unk
+219	Heat Balance	unk
+220	Sky Balance	unk
+221	World Balance	unk
+222	Light Balance	unk
+223	Order Giant	unk
+224	Stasis Giant	unk
+225	Harmony Giant	unk
+226	Void Giant	unk
+227	Steel Machine	unk
+228	Dominating Machine	unk
+229	Solemn Machine	unk
+230	Heartless Machine	unk
+231	Devious Maya	unk
+232	Oppressive Basalt	unk
+233	Rainy Brother 1	unk
+234	blank	inv
+235	Minotaur IV	unk
+236	Minotaur III	unk
+237	Minotaur II	unk
+238	Minotaur I	unk
+239	Neo Minotaur	unk
+240	Jotun of Power	unk
+241	Jotun of Blood	unk
+242	Jotun of Evil	unk
+243	Jotun of Grief	unk
+244	Mighty Cyclops	unk
+245	Mad Cyclops	unk
+246	Fierce Cyclops	unk
+247	Chaos Cyclops	unk
+248	Brilliant Cyclops	unk
+249	Rebellious Cyclops	unk
+250	Protective Lexy	unk
+251	Dry Dexy	unk
+252	Earnest Calocy	unk
+253	Successful Junecy	unk
+254	Test Rare	inv
+255	blank	inv
+256	Shadow Yosuke	unk
+257	Queen of Hearts	unk
+258	Sword Soldier	unk
+259	Spear Soldier	unk
+260	Staff Soldier	unk
+261	Wand Soldier	unk
+262	Merciful Clergyman	unk
+263	Kind Doctor	unk
+264	Calm Nurse	unk
+265	Caring Nurse	unk
+266	Best Friend	unk
+267	Captor Spider	unk
+268	Blazing Leg	unk
+269	Freezing Leg	unk
+270	Lightning Leg	unk
+271	Whirlwind Leg	unk
+272	Clockwork God	unk
+273	blank	inv
+274	Margaret	unk
+275	Elizabeth	unk
+276	Golden Beetle	unk
+277	Engage King	unk
+278	Soul Seeker	unk
+279	Guardian Machine	unk
+280	blank	inv
+281	Theodore	unk
+282	Margaret	unk
+283	Elizabeth	unk
+284	Elizabeth	unk
+285	Elizabeth	unk
+286	Elizabeth	unk
+287	Elizabeth	unk
+288	The Reaper	unk
+289	The Reaper	unk
+290	The Reaper	unk
+291	The Reaper	unk
+292	The Reaper	unk
+293	The Reaper	unk
+294	The Reaper	unk
+295	The Reaper	unk
+296	God of Romance	unk
+297	Fast Guy	unk
+298	Card Soldier	unk
+299	Painting Soldier	unk
+300	Black Rabbit	unk
+301	Angel of Love	unk
+302	Beast of Lust	unk
+303	Messenger of Love	unk
+304	Cute Baby	unk
+305	Lovely Doll	unk
+306	Old Doll	unk
+307	Kowakashu	unk
+308	Sweaty Guy	unk
+309	Festival Dudes	unk
+310	The Capturer	unk
+311	The Watcher	unk
+312	Kumiashira	unk
+313	blank	inv
+314	Wealth Hand	unk
+315	Treasure Hand	unk
+316	Supreme Hand	unk
+317	Opulent Hand	unk
+318	Luxury Hand	unk
+319	Glorious Hand	unk
+320	Burning Beetle	unk
+321	blank	inv
+322	Gorgeous King	unk
+323	blank	inv
+324	Horror L Shadow	unk
+325	Fate Seeker	unk
+326	Indignant Machine	unk
+327	blank	inv
+328	Order Giant	unk
+329	blank	inv
+330	blank	inv
+331	blank	inv
+332	blank	inv
+333	blank	inv
+334	blank	inv
+335	blank	inv
+336	Gauntlet Hand	unk
+337	Sword Soldier	unk
+338	Spear Soldier	unk
+339	Staff Soldier	unk
+340	Wand Soldier	unk
+341	Emaciated Garcy	unk
+342	Execution Sword	unk
+343	Cursed Woman's Pot	unk
+344	Stupendous Relic	unk
+345	Gorgeous King	unk
+346	Spectral Raven	unk
+347	Praying Nyogo	unk
+348	Superstitious Okina	unk
+349	Lawless Fuzz	unk
+350	Stone Panzer	unk
+351	Harmonious Giant	unk
+352	Snowfall Musha	unk
+353	Calm Machine	unk
+354	Clear Sky Musha	unk
+355	Indignant Machine	unk
+356	Heaven's Giant	unk
+357	blank	inv
+358	blank	inv
+359	Test S Size	inv
+360	Test M Size	inv
+361	Test L Size	inv
+362	blank	inv
+363	blank	inv
+364	blank	inv
+365	blank	inv
+366	blank	inv
+367	blank	inv

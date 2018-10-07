@@ -1,0 +1,3329 @@
+id	name	tag
+0	NONE	bln
+1	Golf Club	unk
+2	Imitation Katana	unk
+3	Iai Katana	unk
+4	Bastard Sword	unk
+5	Two-Handed Sword	unk
+6	Dark Basher	unk
+7	Type-98 Gunto	unk
+8	Tsubaki-maru	unk
+9	Great Sword	unk
+10	Deathbringer	unk
+11	Caladbolg	unk
+12	0x00C	inv
+13	Long Sword	unk
+14	Soul Crusher	unk
+15	Kishido Blade	unk
+16	Zweihander	unk
+17	Gothic Sword	unk
+18	Zanbatou	unk
+19	Edge	unk
+20	Mikazuki Munechika	unk
+21	Midare Hamon	unk
+22	Kakitsubata	unk
+23	Tobi-botaru	unk
+24	Kusanagi no Tsurugi	unk
+25	Usumidori	unk
+26	Masakado's Katana	unk
+27	Kopis	unk
+28	Onusa Sword	unk
+29	Harisen	unk
+30	Heavy Longsword	unk
+31	Paralysis Blade	unk
+32	Venom Sword	unk
+33	Setsugetsuka	unk
+34	0x022	inv
+35	0x023	inv
+36	0x024	inv
+37	0x025	inv
+38	0x026	inv
+39	0x027	inv
+40	0x028	inv
+41	0x029	inv
+42	0x02A	inv
+43	0x02B	inv
+44	0x02C	inv
+45	0x02D	inv
+46	0x02E	inv
+47	0x02F	inv
+48	0x030	inv
+49	0x031	inv
+50	0x032	inv
+51	0x033	inv
+52	0x034	inv
+53	0x035	inv
+54	0x036	inv
+55	0x037	inv
+56	0x038	inv
+57	0x039	inv
+58	0x03A	inv
+59	0x03B	inv
+60	Fire Sword (dummy)	unk
+61	Ice Sword (dummy)	unk
+62	Elec Sword (dummy)	unk
+63	Wind Sword (dummy)	unk
+64	Monkey Wrench	unk
+65	Sylph Blade	unk
+66	Blitz Kunai	unk
+67	Kaiken	unk
+68	Yashima	unk
+69	Fearful Kunai	unk
+70	Jade Dagger	unk
+71	Basho	unk
+72	Militia Dagger	unk
+73	Rappa	unk
+74	Kashin Koji	unk
+75	Hunting Nata	unk
+76	Machete	unk
+77	Karasu-maru	unk
+78	En-Giri	unk
+79	Hoori	unk
+80	Raven Claw	unk
+81	Pesh Kabz	unk
+82	Shadowrend	unk
+83	Athame	unk
+84	Grand Slasher	unk
+85	Pixie Knife	unk
+86	Nandaka	unk
+87	Vajra	unk
+88	Jitte	unk
+89	Sleep Dagger	unk
+90	Heavy Knife	unk
+91	Poison Knife	unk
+92	Paralysis Knife	unk
+93	0x05D	inv
+94	0x05E	inv
+95	0x05F	inv
+96	0x060	inv
+97	0x061	inv
+98	0x062	inv
+99	0x063	inv
+100	0x064	inv
+101	0x065	inv
+102	0x066	inv
+103	0x067	inv
+104	0x068	inv
+105	0x069	inv
+106	0x06A	inv
+107	0x06B	inv
+108	0x06C	inv
+109	0x06D	inv
+110	0x06E	inv
+111	0x06F	inv
+112	0x070	inv
+113	0x071	inv
+114	0x072	inv
+115	0x073	inv
+116	0x074	inv
+117	0x075	inv
+118	0x076	inv
+119	0x077	inv
+120	0x078	inv
+121	0x079	inv
+122	0x07A	inv
+123	0x07B	inv
+124	0x07C	inv
+125	0x07D	inv
+126	0x07E	inv
+127	0x07F	inv
+128	Leather Shoes	unk
+129	Spring Boots	unk
+130	Nanban Gusoku	unk
+131	Heavy Heels	unk
+132	Furinkazan	unk
+133	Sleipnir	unk
+134	Mjolnir Boots	unk
+135	Demon Boots	unk
+136	Gigant Fall	unk
+137	Judgement Boots	unk
+138	Platform Sneaks	unk
+139	Shield Boots	unk
+140	Punk Shoes	unk
+141	Bishamonten	unk
+142	Bucking Broncos	unk
+143	Four Beasts	unk
+144	Vidar's Boots	unk
+145	Kehaya	unk
+146	Peerless Heels	unk
+147	Stella Greaves	unk
+148	0x094	inv
+149	Genbu Greaves	unk
+150	Reigan Greaves	unk
+151	Electro Shoes	unk
+152	Heavy Shoes	unk
+153	Panic Boots	unk
+154	Cobra Boots	unk
+155	0x09B	inv
+156	0x09C	inv
+157	0x09D	inv
+158	0x09E	inv
+159	0x09F	inv
+160	0x0A0	inv
+161	0x0A1	inv
+162	0x0A2	inv
+163	0x0A3	inv
+164	0x0A4	inv
+165	0x0A5	inv
+166	0x0A6	inv
+167	0x0A7	inv
+168	0x0A8	inv
+169	0x0A9	inv
+170	0x0AA	inv
+171	0x0AB	inv
+172	Fire Shoes (Dummy)	unk
+173	Ice Shoes (Dummy)	unk
+174	Elec Shoes (Dummy)	unk
+175	Wind Shoes (Dummy)	unk
+176	Kyo Sensu	unk
+177	Noh Fan	unk
+178	Silk Fan	unk
+179	Hanachirusato	unk
+180	Inversion Fan	unk
+181	Fickle Madam	unk
+182	Courtesia	unk
+183	Suzumushi	unk
+184	Secret Fan	unk
+185	Pieta	unk
+186	Santa Fan	unk
+187	Festival Fan	unk
+188	Tessen	unk
+189	Masquerade	unk
+190	Mogari-Bue	unk
+191	Ganar	unk
+192	Adoracion	unk
+193	Hototogisu	unk
+194	Kacho Fugetsu	unk
+195	Yume no Ukihashi	unk
+196	0x0C4	inv
+197	Suzaku Feather	unk
+198	Peacock Tail	unk
+199	Jusen	unk
+200	Heavy Sensu	unk
+201	Lucky Rake	unk
+202	Moth Fan	unk
+203	0x0CB	inv
+204	0x0CC	inv
+205	0x0CD	inv
+206	0x0CE	inv
+207	0x0CF	inv
+208	0x0D0	inv
+209	0x0D1	inv
+210	0x0D2	inv
+211	0x0D3	inv
+212	0x0D4	inv
+213	0x0D5	inv
+214	0x0D6	inv
+215	0x0D7	inv
+216	0x0D8	inv
+217	0x0D9	inv
+218	0x0DA	inv
+219	0x0DB	inv
+220	0x0DC	inv
+221	0x0DD	inv
+222	0x0DE	inv
+223	0x0DF	inv
+224	Folding Chair	unk
+225	Yasogami Desk	unk
+226	Round Shield	unk
+227	Photon Plate	unk
+228	Power Plate	unk
+229	Alloyed Plate	unk
+230	Scutum	unk
+231	Sol Breaker	unk
+232	Asturias	unk
+233	Wisdom Shield	unk
+234	Christ Mirror	unk
+235	Iron Plate	unk
+236	Steel Plate	unk
+237	Hard Board	unk
+238	Bodyboard	unk
+239	Gorgon Plate	unk
+240	Oni-Gawara	unk
+241	Phalanx	unk
+242	Black Targe	unk
+243	Dullahan	unk
+244	0x0F4	inv
+245	Lantern Shield	unk
+246	Destiny Tablet	unk
+247	Straw Doll	unk
+248	Heavy Shield	unk
+249	Jet Shield	unk
+250	Drowsy Shield	unk
+251	0x0FB	inv
+252	0x0FC	inv
+253	0x0FD	inv
+254	0x0FE	inv
+255	0x0FF	inv
+256	0x100	inv
+257	0x101	inv
+258	0x102	inv
+259	0x103	inv
+260	0x104	inv
+261	0x105	inv
+262	0x106	inv
+263	0x107	inv
+264	0x108	inv
+265	0x109	inv
+266	0x10A	inv
+267	0x10B	inv
+268	0x10C	inv
+269	0x10D	inv
+270	0x10E	inv
+271	0x10F	inv
+272	Nambu 2	unk
+273	Culverin	unk
+274	Raging Bull	unk
+275	Crimson Dirge	unk
+276	Chrome Heart	unk
+277	Abyss	unk
+278	Camel Red	unk
+279	Machine Pistol	unk
+280	Dragoon	unk
+281	Judge of Hell	unk
+282	Peacemaker	unk
+283	Serpentinelock	unk
+284	Algernon	unk
+285	.44 Anaconda	unk
+286	Unlimited	unk
+287	Nalnari	unk
+288	Wyrmhunter	unk
+289	From Zero	unk
+290	Abaddon	unk
+291	Magatsu Kiba	unk
+292	0x124	inv
+293	Magical Gun	unk
+294	Megido Gun	unk
+295	Ray Gun	unk
+296	Heavy Gun	unk
+297	Shield Gun	unk
+298	Magic Sealer	unk
+299	0x12B	inv
+300	0x12C	inv
+301	0x12D	inv
+302	0x12E	inv
+303	0x12F	inv
+304	0x130	inv
+305	0x131	inv
+306	0x132	inv
+307	0x133	inv
+308	0x134	inv
+309	0x135	inv
+310	0x136	inv
+311	0x137	inv
+312	0x138	inv
+313	0x139	inv
+314	0x13A	inv
+315	0x13B	inv
+316	Fire Gun (Dummy)	unk
+317	Ice Gun (Dummy)	unk
+318	Elec Gun (Dummy)	unk
+319	Wind Gun (Dummy)	unk
+320	Spikey Punch	unk
+321	Mewling Claw	unk
+322	Bear Claw	unk
+323	Tiger Claw	unk
+324	Breaker	unk
+325	Gehenna Claw	unk
+326	Seiryu Claw	unk
+327	Sonic Claw	unk
+328	Platinum Claw	unk
+329	The Ripper	unk
+330	Shichisei Jakotsu	unk
+331	Crab Claw	unk
+332	Fuuma Bundou	unk
+333	Iron Claw	unk
+334	Hell Claw	unk
+335	Kazegiri	unk
+336	Dangerous Claw	unk
+337	Dragon Claw	unk
+338	Black Claw	unk
+339	Shadow Claw	unk
+340	0x154	inv
+341	Byakko Reisou	unk
+342	Claw of Revenge	unk
+343	Steeltrap Claw	unk
+344	Heavy Claw	unk
+345	Thunder Claw	unk
+346	Power Eater	unk
+347	0x15B	inv
+348	0x15C	inv
+349	0x15D	inv
+350	0x15E	inv
+351	0x15F	inv
+352	0x160	inv
+353	0x161	inv
+354	0x162	inv
+355	0x163	inv
+356	0x164	inv
+357	0x165	inv
+358	0x166	inv
+359	0x167	inv
+360	0x168	inv
+361	0x169	inv
+362	0x16A	inv
+363	0x16B	inv
+364	0x16C	inv
+365	0x16D	inv
+366	0x16E	inv
+367	0x16F	inv
+368	3-Mount Albireo	unk
+369	Six-Shot	unk
+370	Phalanx B2	unk
+371	5-Mount Medusa	unk
+372	Carbon Railgun	unk
+373	Axion IG	unk
+374	Kiss of Athena	unk
+375	Maxima Sniper	unk
+376	Kuni-kuzushi	unk
+377	Pandemonium	unk
+378	Grenade Launcher	unk
+379	Orgone Rifle	unk
+380	Firegun	unk
+381	Madfa	unk
+382	Orthrus	unk
+383	Hell Grenade	unk
+384	Handcannon	unk
+385	Iron Saker	unk
+386	Volt Gun	unk
+387	Anti-Matter Gun	unk
+388	0x184	inv
+389	Frost Cannon	unk
+390	Metatronius	unk
+391	Lime Howitzer	unk
+392	Heavy Howitzer	unk
+393	Wide Bomber	unk
+394	Paralysis Blaster	unk
+395	0x18B	inv
+396	0x18C	inv
+397	0x18D	inv
+398	0x18E	inv
+399	0x18F	inv
+400	0x190	inv
+401	0x191	inv
+402	0x192	inv
+403	0x193	inv
+404	0x194	inv
+405	0x195	inv
+406	0x196	inv
+407	0x197	inv
+408	0x198	inv
+409	0x199	inv
+410	0x19A	inv
+411	0x19B	inv
+412	0x19C	inv
+413	0x19D	inv
+414	0x19E	inv
+415	0x19F	inv
+416	Normal Bullet	unk
+417	Rubber Bullet	unk
+418	Iron Arrow	unk
+419	Softpoint	unk
+420	Copper Arrow	unk
+421	Frangible Bullet	unk
+422	Silver Arrow	unk
+423	Needle Shot	unk
+424	King's Bullet	unk
+425	Golden Bullet	unk
+426	Splash Shot	unk
+427	Theodore #3	unk
+428	Flame Shot	unk
+429	Wadcutter	unk
+430	Piercer	unk
+431	Flechette	unk
+432	Exploder	unk
+433	Hollow Point	unk
+434	Silver Bullet	unk
+435	Gold Arrow	unk
+436	Infinite Shot	unk
+437	Clock Hand	unk
+438	Pink Shot	unk
+439	Pashupata	unk
+440	Gumball	unk
+441	Theodore #66	unk
+442	Heavy Bullet	unk
+443	Critical Bullet	unk
+444	Speed Eater	unk
+445	Poison Bullet	unk
+446	0x1BE	inv
+447	0x1BF	inv
+448	0x1C0	inv
+449	0x1C1	inv
+450	0x1C2	inv
+451	0x1C3	inv
+452	0x1C4	inv
+453	0x1C5	inv
+454	0x1C6	inv
+455	0x1C7	inv
+456	0x1C8	inv
+457	0x1C9	inv
+458	0x1CA	inv
+459	0x1CB	inv
+460	0x1CC	inv
+461	0x1CD	inv
+462	0x1CE	inv
+463	0x1CF	inv
+464	Short Sword	unk
+465	Nagawakizashi	unk
+466	Sabre	unk
+467	Fudou Masamune	unk
+468	Silver Saber	unk
+469	Tizona	unk
+470	Kaneshige	unk
+471	Sin Blade	unk
+472	Qi Xing Dao	unk
+473	Macabuin	unk
+474	Gimlet	unk
+475	Short Blade	unk
+476	Aroundight	unk
+477	Falcata	unk
+478	Shamshir	unk
+479	Cutlass	unk
+480	Schiavona	unk
+481	Aroundight	unk
+482	Katzbalger	unk
+483	Kogarasumaru	unk
+484	Amakuni	unk
+485	0x1E5	inv
+486	Shishioh	unk
+487	Deus Xiphos	unk
+488	Spiral Sword	unk
+489	Slumber Sword	unk
+490	Heavy Sword	unk
+491	Gravity Sword	unk
+492	Poison Sword	unk
+493	Curse Blade	unk
+494	0x1EE	inv
+495	0x1EF	inv
+496	0x1F0	inv
+497	0x1F1	inv
+498	0x1F2	inv
+499	0x1F3	inv
+500	0x1F4	inv
+501	0x1F5	inv
+502	0x1F6	inv
+503	0x1F7	inv
+504	0x1F8	inv
+505	0x1F9	inv
+506	0x1FA	inv
+507	0x1FB	inv
+508	0x1FC	inv
+509	0x1FD	inv
+510	0x1FE	inv
+511	0x1FF	inv
+512	Practice Bow	unk
+513	Short Bow	unk
+514	Shigetou-yumi	unk
+515	Uta	unk
+516	Kamatha	unk
+517	Higo-yumi	unk
+518	Composite Bow	unk
+519	Great Bow	unk
+520	Hero's Bow	unk
+521	Lightning Bow	unk
+522	Yoichi's Bow	unk
+523	Quintet Bow	unk
+524	Long Bow	unk
+525	Self Bow	unk
+526	Hades Bow	unk
+527	Sylvan Bow	unk
+528	Hunter Bow	unk
+529	Ill Wind	unk
+530	Heaven Bow	unk
+531	Gendawa	unk
+532	0x214	inv
+533	Ichibal	unk
+534	Quintessence Bow	unk
+535	Bat Bow	unk
+536	Heavy Bow	unk
+537	Spiral Bow	unk
+538	Silence Bow	unk
+539	0x21B	inv
+540	0x21C	inv
+541	0x21D	inv
+542	0x21E	inv
+543	0x21F	inv
+544	0x210	inv
+545	0x221	inv
+546	0x222	inv
+547	0x223	inv
+548	0x224	inv
+549	0x225	inv
+550	0x226	inv
+551	0x227	inv
+552	0x228	inv
+553	0x229	inv
+554	0x22A	inv
+555	0x22B	inv
+556	0x22C	inv
+557	0x22D	inv
+558	0x22E	inv
+559	0x22F	inv
+560	Rapier	unk
+561	Fleuret	unk
+562	Flamberge	unk
+563	Night Falcon	unk
+564	Silver Rapier	unk
+565	Serpent Sword	unk
+566	Elegant Fleuret	unk
+567	Misericorde	unk
+568	Skrep	unk
+569	Last Estoc	unk
+570	Damascus Rapier	unk
+571	Panzerstecher	unk
+572	Town Sword	unk
+573	Sting	unk
+574	Espada Ropera	unk
+575	Stiletto	unk
+576	Moralltach	unk
+577	Joyeuse	unk
+578	Struggle	unk
+579	Illuminati	unk
+580	Rapier 10	unk
+581	Bloody Estoc	unk
+582	Kokuseki Senjin	unk
+583	Small Sword	unk
+584	0x248	inv
+585	0x249	inv
+586	0x24A	inv
+587	Electric Rod	unk
+588	Heavy Rapier	unk
+589	Thunder Rapier	unk
+590	Eternal Blade	unk
+591	0x24F	inv
+592	0x250	inv
+593	0x251	inv
+594	0x252	inv
+595	0x253	inv
+596	0x254	inv
+597	0x255	inv
+598	0x256	inv
+599	0x257	inv
+600	0x258	inv
+601	0x259	inv
+602	0x25A	inv
+603	0x25B	inv
+604	0x25C	inv
+605	0x25D	inv
+606	0x25E	inv
+607	0x25F	inv
+608	Cross Spear	unk
+609	Sexy Lance	unk
+610	Fuscina	unk
+611	Scorpion	unk
+612	Lance of Death	unk
+613	Ranseur	unk
+614	Ouka Jumonji	unk
+615	Ote-gine	unk
+616	Voulge	unk
+617	Romulus' Spear	unk
+618	Omega Spear	unk
+619	Framea	unk
+620	Javelin	unk
+621	Do Sanga	unk
+622	Rhomphair	unk
+623	Ahlspiess	unk
+624	Oomiyari	unk
+625	Hayakaze	unk
+626	Winged Spear	unk
+627	Tonbo-kiri	unk
+628	0x274	inv
+629	Quinlong Yanyue	unk
+630	Gae Bolg	unk
+631	Sasumata	unk
+632	Heavy Spear	unk
+633	Clover Pole	unk
+634	Power Snare	unk
+635	0x27B	inv
+636	0x27C	inv
+637	0x27D	inv
+638	0x27E	inv
+639	0x27F	inv
+640	0x280	inv
+641	0x281	inv
+642	0x282	inv
+643	0x283	inv
+644	0x284	inv
+645	0x285	inv
+646	0x286	inv
+647	0x287	inv
+648	0x288	inv
+649	0x289	inv
+650	0x28A	inv
+651	0x28B	inv
+652	0x28C	inv
+653	0x28D	inv
+654	0x28E	inv
+655	0x28F	inv
+656	Brass Knuckles	unk
+657	Sonic Fist	unk
+658	Champion Gloves	unk
+659	Beast Fangs	unk
+660	Furious Fists	unk
+661	Blood Baghnakh	unk
+662	Pugilist's Fists	unk
+663	Dragon Fangs	unk
+664	Bluster Knuckle	unk
+665	White Fangs	unk
+666	Pegasus Fist	unk
+667	Bladefist	unk
+668	Jack's Gloves	unk
+669	Kaiser Knuckles	unk
+670	Wicked Cestus	unk
+671	Titanic Knuckles	unk
+672	Crusher Fist	unk
+673	Wings of Vanth	unk
+674	Golden Gloves	unk
+675	Double Ziggurat	unk
+676	0x2A4	inv
+677	Sabazios	unk
+678	Fimbulvetr	unk
+679	Goodnight Glove	unk
+680	Heavy Gloves	unk
+681	Lucky Catpaw	unk
+682	Heavy Punch	unk
+683	0x2AB	inv
+684	0x2AC	inv
+685	0x2AD	inv
+686	0x2AE	inv
+687	0x2AF	inv
+688	0x2B0	inv
+689	0x2B1	inv
+690	0x2B2	inv
+691	0x2B3	inv
+692	0x2B4	inv
+693	0x2B5	inv
+694	0x2B6	inv
+695	0x2B7	inv
+696	0x2B8	inv
+697	0x2B9	inv
+698	0x2BA	inv
+699	0x2BB	inv
+700	0x2BC	inv
+701	0x2BD	inv
+702	0x2BE	inv
+703	0x2BF	inv
+704	Sledgehammer	unk
+705	Ogre Hammer	unk
+706	Night Stalker	unk
+707	Bus Stop Sign	unk
+708	Megaton Rod	unk
+709	Heavy Mace	unk
+710	Charun's Hammer	unk
+711	Gaea's Grace	unk
+712	Eliminator	unk
+713	War Pick	unk
+714	Light Mace	unk
+715	Nirili	unk
+716	Crushing Club	unk
+717	Spiked Club	unk
+718	Hex Club	unk
+719	Kanasaibou	unk
+720	Morgenstern	unk
+721	Jadagna	unk
+722	Yagrush	unk
+723	Gennou	unk
+724	0x2D4	inv
+725	Oni ni Kanabou	unk
+726	Corpse Rod	unk
+727	Stun Hammer	unk
+728	Heavy Hammer	unk
+729	Aero Hammer	unk
+730	Hammer of Repose	unk
+731	0x2DB	inv
+732	0x2DC	inv
+733	0x2DD	inv
+734	0x2DE	inv
+735	0x2DF	inv
+736	0x2E0	inv
+737	0x2E1	inv
+738	0x2E2	inv
+739	0x2E3	inv
+740	0x2E4	inv
+741	0x2E5	inv
+742	0x2E6	inv
+743	0x2E7	inv
+744	0x2E8	inv
+745	0x2E9	inv
+746	0x2EA	inv
+747	0x2EB	inv
+748	0x2EC	inv
+749	0x2ED	inv
+750	0x2EE	inv
+751	0x2EF	inv
+752	0x2F0	inv
+753	0x2F1	inv
+754	0x2F2	inv
+755	0x2F3	inv
+756	0x2F4	inv
+757	0x2F5	inv
+758	0x2F6	inv
+759	0x2F7	inv
+760	0x2F8	inv
+761	0x2F9	inv
+762	0x2FA	inv
+763	0x2FB	inv
+764	0x2FC	inv
+765	Armband	unk
+766	Mic	unk
+767	Reserve	???
+768	Armor Start	unk
+769	Gothic Shirt	unk
+770	Chain Mail	unk
+771	Rash Guard	unk
+772	Kevlar Vest	unk
+773	Metal Protector	unk
+774	Hard Armor	unk
+775	Kaiser Armor	unk
+776	Talisman Cape	unk
+777	Energy Armor	unk
+778	Ring Mail	unk
+779	Amenity Suit	unk
+780	Survival Guard	unk
+781	Metal Jacket	unk
+782	Papal Robe	unk
+783	Heavy Gi	unk
+784	T-Shirt	unk
+785	Plain Shirt	unk
+786	Long T-Shirt	unk
+787	Skull T-Shirt	unk
+788	Pretty Suit	unk
+789	Dress Shirt	unk
+790	Fleece Vest	unk
+791	Zip Hoodie	unk
+792	Long Pea Coat	unk
+793	0x319	inv
+794	0x31A	inv
+795	Lion Happi	unk
+796	Tigerhide Belt	unk
+797	Aketon	unk
+798	Purple Suit	unk
+799	Hero's Knickers	unk
+800	Plate Mail	unk
+801	Stealth Shirt	unk
+802	Dragon Scale	unk
+803	Full Jin-Baori	unk
+804	Panic Suit	unk
+805	Manly Fundoshi	unk
+806	Manly Jinbei	unk
+807	Wire Jacket	unk
+808	Doumaru	unk
+809	Desperate Plate	unk
+810	Blackstone Mail	unk
+811	Knight Scale	unk
+812	Passion Sweats	unk
+813	Kuroito-odoshi	unk
+814	Carbon Jacket	unk
+815	Hallowed Plate	unk
+816	King Collar	unk
+817	Monarch Jacket	unk
+818	Fuuma Outfit	unk
+819	Gold Tokkoufuku	unk
+820	Magnetic Bearsuit	unk
+821	Brave Scale	unk
+822	Sirius Suit	unk
+823	Undefeated Hoodie	unk
+824	Moon Haori	unk
+825	Fearsome Armor	unk
+826	Charming Getup	unk
+827	Sizzlin Happi	unk
+828	Quartz Mail	unk
+829	Gear Armor	unk
+830	Heavy Armor	unk
+831	Stone Armor	unk
+832	Green Sweats	unk
+833	Lace Blouse	unk
+834	Long Bolero	unk
+835	Ruffled Blouse	unk
+836	0x344	inv
+837	0x345	inv
+838	Combat Dress	unk
+839	All-Purpose Apron	unk
+840	Battle Camisole	unk
+841	Battle Leotard	unk
+842	Wolf Tunic	unk
+843	Capital Robe	unk
+844	Invincible Mini	unk
+845	Spiked Bra	unk
+846	Emery Meisen	unk
+847	Haten Robe	unk
+848	Steel Panier	unk
+849	Charm Robe	unk
+850	Hard Bolero	unk
+851	Armada Bustier	unk
+852	Action Vest	unk
+853	Breeze Tutu	unk
+854	Rune Dress	unk
+855	Elint Duffle	unk
+856	Eternal Plate	unk
+857	Solar Robe	unk
+858	Ruby Kimono	unk
+859	Black Dress	unk
+860	Sakura Robe	unk
+861	Empress Fur	unk
+862	Fearsome Gown	unk
+863	Witch Dress	unk
+864	Metro Armor	unk
+865	Mystic Veil	unk
+866	Element Dress	unk
+867	0x363	inv
+868	0x364	inv
+869	0x365	inv
+870	0x366	inv
+871	0x367	inv
+872	0x368	inv
+873	0x369	inv
+874	0x36A	inv
+875	0x36B	inv
+876	0x36C	inv
+877	Silk Blouse	unk
+878	Lace Camisole	unk
+879	0x36F	inv
+880	Aigis Armor	unk
+881	0x371	inv
+882	Aigis Armor v1	unk
+883	Aigis Armor v3	unk
+884	Aigis Armor v4	unk
+885	TD W Plate	unk
+886	Aigis Armor v7	unk
+887	Aigis Armor v8	unk
+888	Aigis Armor v9	unk
+889	TD Full Body	unk
+890	Aigis Armor v0	unk
+891	0x37B	inv
+892	0x37C	inv
+893	0x37D	inv
+894	TD Full Shell	unk
+895	Aigis Armor v2	unk
+896	TD Plate	unk
+897	Aigis Armor v5	unk
+898	Aigis Armor v6	unk
+899	TD C Harness	unk
+900	TD Scale	unk
+901	Aigis Armor v10	unk
+902	Papillon Method	unk
+903	Aigis Armor v100	unk
+904	Fearsome V-Suit	unk
+905	Heavy V-Suit	unk
+906	Anti-Seal Armor	unk
+907	Element Body	unk
+908	0x38C	inv
+909	0x38D	inv
+910	0x38E	inv
+911	0x38F	inv
+912	0x390	inv
+913	0x391	inv
+914	0x392	inv
+915	0x393	inv
+916	0x394	inv
+917	0x395	inv
+918	0x396	inv
+919	0x397	inv
+920	0x398	inv
+921	0x399	inv
+922	0x39A	inv
+923	0x39B	inv
+924	0x39C	inv
+925	0x39D	inv
+926	0x39E	inv
+927	0x39F	inv
+928	Silk Dog-Suit	unk
+929	Leather Dog-Suit	unk
+930	Metal Dog-Suit	unk
+931	Light Dog-Suit	unk
+932	Titanium Dog-Suit	unk
+933	Cross Dog-Suit	unk
+934	Power Dog-Suit	unk
+935	Dark Dog-Suit	unk
+936	Luna Dog-Suit	unk
+937	Cosmos Dog-Suit	unk
+938	Dotted Dog-Suit	unk
+939	Heart Dog-Suit	unk
+940	Pearl Dog-Suit	unk
+941	Sky Dog-Suit	unk
+942	Marine Dog-Suit	unk
+943	Star Dog-Suit	unk
+944	Denim Dog-Suit	unk
+945	Solar Dog-Suit	unk
+946	Heavy Dog-Suit	unk
+947	Aura Dog-Suit	unk
+948	Obsidian Dog-Suit	unk
+949	Fearsome Dog-Suit	unk
+950	Heavy Dog-Gi	unk
+951	Guardian Dog-Suit	unk
+952	Mint Dog-Suit	unk
+953	0x3B9	inv
+954	0x3BA	inv
+955	0x3BB	inv
+956	0x3BC	inv
+957	0x3BD	inv
+958	0x3BE	inv
+959	0x3BF	inv
+960	0x3C0	inv
+961	0x3C1	inv
+962	0x3C2	inv
+963	0x3C3	inv
+964	0x3C4	inv
+965	0x3C5	inv
+966	0x3C6	inv
+967	0x3C7	inv
+968	0x3C8	inv
+969	0x3C9	inv
+970	0x3CA	inv
+971	0x3CB	inv
+972	0x3CC	inv
+973	0x3CD	inv
+974	0x3CE	inv
+975	0x3CF	inv
+976	Twin Tweeds	unk
+977	Twin Guards	unk
+978	Twin Armor	unk
+979	Twin Mail	unk
+980	Twin Tunics	unk
+981	Twin Robes	unk
+982	Twin Sweats	unk
+983	Twin Chain	unk
+984	Black Robe	unk
+985	Abyss Armor	unk
+986	Twin Hauberks	unk
+987	Twin Vests	unk
+988	Twin Shirts	unk
+989	Twin Plates	unk
+990	Twin Cuirasses	unk
+991	Twin Suits	unk
+992	Twin Gis	unk
+993	Twin Capes	unk
+994	Chaos Robes	unk
+995	Phantom Mail	unk
+996	Twin Jackets	unk
+997	Toughness Shirt	unk
+998	Twin Sheets	unk
+999	Kairos Scope	unk
+1000	Fearsome Robe	unk
+1001	Heavy Cloak	unk
+1002	Panic Robe	unk
+1003	Stone Robe	unk
+1004	Poison Robe	unk
+1005	Paralysis Robe	unk
+1006	0x3EE	inv
+1007	0x3EF	inv
+1008	0x3F0	inv
+1009	0x3F1	inv
+1010	0x3F2	inv
+1011	0x3F3	inv
+1012	0x3F4	inv
+1013	0x3F5	inv
+1014	0x3F6	inv
+1015	0x3F7	inv
+1016	0x3F8	inv
+1017	0x3F9	inv
+1018	0x3FA	inv
+1019	0x3FB	inv
+1020	0x3FC	inv
+1021	0x3FD	inv
+1022	0x3FE	inv
+1023	RESERVE	inv
+1024	Accessories Start	unk
+1025	Vigor Fob	unk
+1026	0x402	inv
+1027	Life Fob	unk
+1028	0x404	inv
+1029	0x405	inv
+1030	Plum Potpourri	unk
+1031	0x407	inv
+1032	Soul Potpourri	unk
+1033	0x409	inv
+1034	0x40A	inv
+1035	Headband	unk
+1036	0x40C	inv
+1037	Power Tasuki	unk
+1038	0x40E	inv
+1039	Festival Drum	unk
+1040	Lizard Charm	unk
+1041	0x411	inv
+1042	Bat Charm	unk
+1043	0x413	inv
+1044	Witch Charm	unk
+1045	Leather Choker	unk
+1046	0x416	inv
+1047	Defense Amulet	unk
+1048	0x418	inv
+1049	Guard Rosary	unk
+1050	Feather Strap	unk
+1051	0x41B	inv
+1052	Flight Strap	unk
+1053	0x41D	inv
+1054	Pegasus Strap	unk
+1055	Four-Leaf Clover	unk
+1056	0x420	inv
+1057	Silver Spoon	unk
+1058	0x422	inv
+1059	Wooden Ebisu	unk
+1060	Monocle	unk
+1061	0x425	inv
+1062	Aim Goggles	unk
+1063	0x427	inv
+1064	0x428	inv
+1065	Alpha Drive	unk
+1066	0x42A	inv
+1067	Delta Drive	unk
+1068	0x42C	inv
+1069	0x42D	inv
+1070	First Choker	unk
+1071	0x42F	inv
+1072	Advance Choker	unk
+1073	0x431	inv
+1074	0x432	inv
+1075	Eclipse Glasses	unk
+1076	0x434	inv
+1077	Blind Mask	unk
+1078	0x436	inv
+1079	0x437	inv
+1080	Antiseptic	unk
+1081	0x439	inv
+1082	Disinfectant	unk
+1083	0x43B	inv
+1084	0x43C	inv
+1085	Mobile Ankh	unk
+1086	0x43E	inv
+1087	Freedom Ankh	unk
+1088	0x440	inv
+1089	0x441	inv
+1090	Waking Mirror	unk
+1091	0x443	inv
+1092	Sleepless Mirror	unk
+1093	0x445	inv
+1094	0x446	inv
+1095	Panic Hat	unk
+1096	0x448	inv
+1097	Calm Buddha	unk
+1098	0x44A	inv
+1099	0x44B	inv
+1100	Purging Charm	unk
+1101	Exorcism Stone	unk
+1102	0x44E	inv
+1103	Stone Charm	unk
+1104	Stone Amulet	unk
+1105	0x451	inv
+1106	0x452	inv
+1107	0x453	inv
+1108	0x454	inv
+1109	0x455	inv
+1110	0x456	inv
+1111	0x457	inv
+1112	Elbow Pad	unk
+1113	Arm Guard	unk
+1114	0x45A	inv
+1115	Safety Helmet	unk
+1116	Head Guard	unk
+1117	0x45D	inv
+1118	Leg Warmer	unk
+1119	Leg Guard	unk
+1120	0x460	inv
+1121	0x461	inv
+1122	Fire Pin	unk
+1123	0x463	inv
+1124	Blaze Pin	unk
+1125	0x465	inv
+1126	0x466	inv
+1127	Ice Pin	unk
+1128	0x468	inv
+1129	Blizzard Pin	unk
+1130	0x46A	inv
+1131	0x46B	inv
+1132	Thunder Pin	unk
+1133	0x46D	inv
+1134	Volt Pin	unk
+1135	0x46F	inv
+1136	0x470	inv
+1137	Wind Pin	unk
+1138	0x472	inv
+1139	Storm Pin	unk
+1140	0x474	inv
+1141	Light Pin	unk
+1142	0x476	inv
+1143	Light Charm	unk
+1144	0x478	inv
+1145	0x479	inv
+1146	Dark Pin	unk
+1147	0x47B	inv
+1148	Dark Charm	unk
+1149	0x47D	inv
+1150	0x47E	inv
+1151	0x47F	inv
+1152	0x480	inv
+1153	0x481	inv
+1154	0x482	inv
+1155	0x483	inv
+1156	0x484	inv
+1157	0x485	inv
+1158	0x486	inv
+1159	0x487	inv
+1160	0x488	inv
+1161	0x489	inv
+1162	0x48A	inv
+1163	0x48B	inv
+1164	0x48C	inv
+1165	0x48D	inv
+1166	Merit Badge	unk
+1167	0x48F	inv
+1168	Authority Badge	unk
+1169	0x491	inv
+1170	All-Around Badge	unk
+1171	Almighty Badge	unk
+1172	Stats+15	unk
+1173	0x495	inv
+1174	Direct Guard	unk
+1175	Free Ornament	unk
+1176	Overflow Bangle	unk
+1177	Element Guard	unk
+1178	Auto Wall	unk
+1179	Gauge Up	unk
+1180	0x49C	inv
+1181	Growth 1	unk
+1182	Growth 2	unk
+1183	Growth 3	unk
+1184	Lucky Coin	unk
+1185	Life Belt	unk
+1186	Bracer of Might	unk
+1187	Sacrificial Idol	unk
+1188	Rudra Ring	unk
+1189	Chakra Ring	unk
+1190	St-Ma Reverse	unk
+1191	St-En Reverse	unk
+1192	St-Ag Reverse	unk
+1193	St-Lu Reverse	unk
+1194	Ma-En Reverse	unk
+1195	Ma-Ag Reverse	unk
+1196	Ma-Lu Reverse	unk
+1197	En-Ag Reverse	unk
+1198	En-Lu Reverse	unk
+1199	Ag-Lu Reverse	unk
+1200	Willow Wing	unk
+1201	Snowy Wing	unk
+1202	Enduring Wing	unk
+1203	Blazing Flame	unk
+1204	Frozen Stone	unk
+1205	Storm Ring	unk
+1206	Lightning Gloves	unk
+1207	Radiant Halo	unk
+1208	Ring of Darkness	unk
+1209	Bladed Plume	unk
+1210	Iron Pendant	unk
+1211	Helmet	unk
+1212	Omnipotent Orb	unk
+1213	Germanium Ring	unk
+1214	Body-Soul Reverse	unk
+1215	Handmade Collar	unk
+1216	Heavy Wristband	unk
+1217	Pink Choker	unk
+1218	Red Hairpin	unk
+1219	Purple Headband	unk
+1220	Promise Bracer	unk
+1221	Focus Earring	unk
+1222	Spirit Ring	unk
+1223	Dragon Belt	unk
+1224	0x4C8	inv
+1225	0x4C9	inv
+1226	0x4CA	inv
+1227	0x4CB	inv
+1228	0x4CC	inv
+1229	0x4CD	inv
+1230	0x4CE	inv
+1231	0x4CF	inv
+1232	0x4D0	inv
+1233	0x4D1	inv
+1234	0x4D2	inv
+1235	0x4D3	inv
+1236	0x4D4	inv
+1237	0x4D5	inv
+1238	0x4D6	inv
+1239	0x4D7	inv
+1240	0x4D8	inv
+1241	0x4D9	inv
+1242	0x4DA	inv
+1243	0x4DB	inv
+1244	0x4DC	inv
+1245	0x4DD	inv
+1246	0x4DE	inv
+1247	0x4DF	inv
+1248	0x4E0	inv
+1249	0x4E1	inv
+1250	0x4E2	inv
+1251	0x4E3	inv
+1252	0x4E4	inv
+1253	0x4E5	inv
+1254	0x4E6	inv
+1255	0x4E7	inv
+1256	0x4E8	inv
+1257	0x4E9	inv
+1258	0x4EA	inv
+1259	0x4EB	inv
+1260	0x4EC	inv
+1261	0x4ED	inv
+1262	Sleep x10	unk
+1263	Curse x10	unk
+1264	Stone x10	unk
+1265	Blind x10	unk
+1266	St x10	unk
+1267	Ma x10	unk
+1268	En x10	unk
+1269	Ag x10	unk
+1270	Lu x10	unk
+1271	Life x10	unk
+1272	Ku x10	unk
+1273	Wind x10	unk
+1274	Light x10	unk
+1275	Dark x10	unk
+1276	Cut x10	unk
+1277	Bash x10	unk
+1278	Stab x10	unk
+1279	RESERVE	inv
+1280	Expendables Start	unk
+1281	Medicine	unk
+1282	Ointment	unk
+1283	Antibiotic Gel	unk
+1284	Bead	unk
+1285	Soul Drop	unk
+1286	Snuff Soul	unk
+1287	Chewing Soul	unk
+1288	Soul Food	unk
+1289	Soma Droplet	unk
+1290	Soma Tear	unk
+1291	Soma Jelly	unk
+1292	Revival Bead	unk
+1293	Balm of Life	unk
+1294	Emergency Kit	unk
+1295	Medical Kit	unk
+1296	Mutudi Gem	unk
+1297	Patra Gem	unk
+1298	Purifying Water	unk
+1299	Purifying Salt	unk
+1300	Bravant	unk
+1301	Stonard	unk
+1302	0x516	inv
+1303	0x517	inv
+1304	0x518	inv
+1305	Fire Mist	unk
+1306	Ice Mist	unk
+1307	Elec Mist	unk
+1308	Wind Mist	unk
+1309	Blaze Oil	unk
+1310	Freeze Oil	unk
+1311	Shock Oil	unk
+1312	Cyclone Oil	unk
+1313	San-zun Tama	unk
+1314	Scorching Magatama	unk
+1315	Dry Ice	unk
+1316	Zero Magatama	unk
+1317	Tesla Coil	unk
+1318	Bolt Magatama	unk
+1319	Yashichi	unk
+1320	Storm Magatama	unk
+1321	Segaki Rice	unk
+1322	Curse Paper	unk
+1323	Poison Gas	unk
+1324	Paralysis Gas	unk
+1325	Blind Gas	unk
+1326	Sleep Gas	unk
+1327	Curse Gas	unk
+1328	Panic Gas	unk
+1329	Analysis Scope	unk
+1330	Homunculus	unk
+1331	Disperse Amulet	unk
+1332	Summon Charm	unk
+1333	Goho-M	unk
+1334	Goba-K	unk
+1335	Winged Sandals	unk
+1336	Sight Beacon	unk
+1337	Soma	unk
+1338	Bead Chain	unk
+1339	Goho-M More	unk
+1340	Goba-K More	unk
+1341	Attract Pipe	unk
+1342	Repulse Bell	unk
+1343	Dawn Charm	unk
+1344	Scapegoat	unk
+1345	Heal Stone	unk
+1346	Vanish Ball	unk
+1347	0x543	inv
+1348	0x544	inv
+1349	0x545	inv
+1350	0x546	inv
+1351	0x547	inv
+1352	0x548	inv
+1353	0x549	inv
+1354	0x54A	inv
+1355	0x54B	inv
+1356	0x54C	inv
+1357	0x54D	inv
+1358	0x54E	inv
+1359	0x54F	inv
+1360	0x550	inv
+1361	0x551	inv
+1362	0x552	inv
+1363	0x553	inv
+1364	0x554	inv
+1365	0x555	inv
+1366	0x556	inv
+1367	0x557	inv
+1368	0x558	inv
+1369	0x559	inv
+1370	0x55A	inv
+1371	0x55B	inv
+1372	0x55C	inv
+1373	0x55D	inv
+1374	0x55E	inv
+1375	0x55F	inv
+1376	0x560	inv
+1377	0x561	inv
+1378	0x562	inv
+1379	0x563	inv
+1380	0x564	inv
+1381	0x565	inv
+1382	0x566	inv
+1383	0x567	inv
+1384	0x568	inv
+1385	0x569	inv
+1386	0x56A	inv
+1387	0x56B	inv
+1388	0x56C	inv
+1389	0x56D	inv
+1390	0x56E	inv
+1391	0x56F	inv
+1392	0x570	inv
+1393	0x571	inv
+1394	0x572	inv
+1395	0x573	inv
+1396	0x574	inv
+1397	0x575	inv
+1398	0x576	inv
+1399	0x577	inv
+1400	0x578	inv
+1401	0x579	inv
+1402	0x57A	inv
+1403	0x57B	inv
+1404	0x57C	inv
+1405	0x57D	inv
+1406	0x57E	inv
+1407	0x57F	inv
+1408	0x580	inv
+1409	0x581	inv
+1410	0x582	inv
+1411	0x583	inv
+1412	0x584	inv
+1413	0x585	inv
+1414	0x586	inv
+1415	0x587	inv
+1416	0x588	inv
+1417	0x589	inv
+1418	0x58A	inv
+1419	0x58B	inv
+1420	0x58C	inv
+1421	0x58D	inv
+1422	0x58E	inv
+1423	0x58F	inv
+1424	0x590	inv
+1425	0x591	inv
+1426	0x592	inv
+1427	0x593	inv
+1428	0x594	inv
+1429	0x595	inv
+1430	0x596	inv
+1431	0x597	inv
+1432	0x598	inv
+1433	0x599	inv
+1434	0x59A	inv
+1435	0x59B	inv
+1436	0x59C	inv
+1437	0x59D	inv
+1438	0x59E	inv
+1439	0x59F	inv
+1440	0x5A0	inv
+1441	0x5A1	inv
+1442	0x5A2	inv
+1443	0x5A3	inv
+1444	0x5A4	inv
+1445	0x5A5	inv
+1446	0x5A6	inv
+1447	0x5A7	inv
+1448	0x5A8	inv
+1449	0x5A9	inv
+1450	0x5AA	inv
+1451	0x5AB	inv
+1452	0x5AC	inv
+1453	0x5AD	inv
+1454	0x5AE	inv
+1455	0x5AF	inv
+1456	0x5B0	inv
+1457	0x5B1	inv
+1458	0x5B2	inv
+1459	0x5B3	inv
+1460	0x5B4	inv
+1461	0x5B5	inv
+1462	0x5B6	inv
+1463	0x5B7	inv
+1464	0x5B8	inv
+1465	0x5B9	inv
+1466	0x5BA	inv
+1467	0x5BB	inv
+1468	0x5BC	inv
+1469	0x5BD	inv
+1470	0x5BE	inv
+1471	0x5BF	inv
+1472	0x5C0	inv
+1473	0x5C1	inv
+1474	0x5C2	inv
+1475	0x5C3	inv
+1476	0x5C4	inv
+1477	0x5C5	inv
+1478	0x5C6	inv
+1479	0x5C7	inv
+1480	0x5C8	inv
+1481	0x5C9	inv
+1482	0x5CA	inv
+1483	0x5CB	inv
+1484	0x5CC	inv
+1485	0x5CD	inv
+1486	0x5CE	inv
+1487	0x5CF	inv
+1488	0x5D0	inv
+1489	0x5D1	inv
+1490	0x5D2	inv
+1491	0x5D3	inv
+1492	0x5D4	inv
+1493	0x5D5	inv
+1494	0x5D6	inv
+1495	0x5D7	inv
+1496	0x5D8	inv
+1497	0x5D9	inv
+1498	0x5DA	inv
+1499	0x5DB	inv
+1500	0x5DC	inv
+1501	0x5DD	inv
+1502	0x5DE	inv
+1503	0x5DF	inv
+1504	0x5E0	inv
+1505	0x5E1	inv
+1506	0x5E2	inv
+1507	0x5E3	inv
+1508	0x5E4	inv
+1509	0x5E5	inv
+1510	0x5E6	inv
+1511	0x5E7	inv
+1512	0x5E8	inv
+1513	0x5E9	inv
+1514	0x5EA	inv
+1515	0x5EB	inv
+1516	0x5EC	inv
+1517	0x5ED	inv
+1518	0x5EE	inv
+1519	0x5EF	inv
+1520	0x5F0	inv
+1521	0x5F1	inv
+1522	0x5F2	inv
+1523	0x5F3	inv
+1524	0x5F4	inv
+1525	0x5F5	inv
+1526	0x5F6	inv
+1527	0x5F7	inv
+1528	0x5F8	inv
+1529	0x5F9	inv
+1530	0x5FA	inv
+1531	0x5FB	inv
+1532	0x5FC	inv
+1533	0x5FD	inv
+1534	0x5FE	inv
+1535	RESERVE	inv
+1536	Key Item Start	unk
+1537	Blank Card	unk
+1538	Blank Card	unk
+1539	Blank Card	unk
+1540	Watering Can	unk
+1541	North Building Key	unk
+1542	Practice Building Key	unk
+1543	South Building Key	unk
+1544	Darkness Key	unk
+1545	Red Key Card	unk
+1546	Yellow Key Card	unk
+1547	Blue Key Card	unk
+1548	Torch	unk
+1549	Black Loincloth	unk
+1550	Stuffed Animal	unk
+1551	Toy Ring	unk
+1552	Lock of Hair	unk
+1553	Message Card	unk
+1554	Leather Notebook	unk
+1555	Small Door Key	unk
+1556	Velvet Ticket	unk
+1557	Velvet Card	unk
+1558	Velvet Pass	unk
+1559	Velvet License	unk
+1560	Blank Card	unk
+1561	Blank Card	unk
+1562	Lab Storage Key	unk
+1563	White Rose	unk
+1564	Heart Mark	unk
+1565	Syringe	unk
+1566	Twisted Bandana	unk
+1567	Extra Gear	unk
+1568	0x620	inv
+1569	0x621	inv
+1570	0x622	inv
+1571	0x623	inv
+1572	0x624	inv
+1573	0x625	inv
+1574	0x626	inv
+1575	0x627	inv
+1576	0x628	inv
+1577	0x629	inv
+1578	0x62A	inv
+1579	0x62B	inv
+1580	0x62C	inv
+1581	0x62D	inv
+1582	0x62E	inv
+1583	0x62F	inv
+1584	0x630	inv
+1585	0x631	inv
+1586	0x632	inv
+1587	0x633	inv
+1588	0x634	inv
+1589	0x635	inv
+1590	0x636	inv
+1591	0x637	inv
+1592	0x638	inv
+1593	0x639	inv
+1594	0x63A	inv
+1595	0x63B	inv
+1596	0x63C	inv
+1597	0x63D	inv
+1598	0x63E	inv
+1599	0x63F	inv
+1600	Children's Book	unk
+1601	Torn Bible	unk
+1602	Broken Gauge	unk
+1603	Hand-Sewn Vest	unk
+1604	0x644	inv
+1605	0x645	inv
+1606	0x646	inv
+1607	0x647	inv
+1608	0x648	inv
+1609	0x649	inv
+1610	0x64A	inv
+1611	0x64B	inv
+1612	0x64C	inv
+1613	0x64D	inv
+1614	0x64E	inv
+1615	0x64F	inv
+1616	0x650	inv
+1617	0x651	inv
+1618	0x652	inv
+1619	0x653	inv
+1620	0x654	inv
+1621	0x655	inv
+1622	0x656	inv
+1623	0x657	inv
+1624	0x658	inv
+1625	0x659	inv
+1626	0x65A	inv
+1627	0x65B	inv
+1628	0x65C	inv
+1629	0x65D	inv
+1630	0x65E	inv
+1631	0x65F	inv
+1632	0x660	inv
+1633	0x661	inv
+1634	0x662	inv
+1635	0x663	inv
+1636	0x664	inv
+1637	0x665	inv
+1638	0x666	inv
+1639	0x667	inv
+1640	0x668	inv
+1641	0x669	inv
+1642	0x66A	inv
+1643	0x66B	inv
+1644	0x66C	inv
+1645	0x66D	inv
+1646	0x66E	inv
+1647	0x66F	inv
+1648	0x670	inv
+1649	0x671	inv
+1650	0x672	inv
+1651	0x673	inv
+1652	0x674	inv
+1653	0x675	inv
+1654	0x676	inv
+1655	0x677	inv
+1656	0x678	inv
+1657	0x679	inv
+1658	0x67A	inv
+1659	0x67B	inv
+1660	0x67C	inv
+1661	0x67D	inv
+1662	0x67E	inv
+1663	0x67F	inv
+1664	0x680	inv
+1665	0x681	inv
+1666	0x682	inv
+1667	0x683	inv
+1668	0x684	inv
+1669	0x685	inv
+1670	0x686	inv
+1671	0x687	inv
+1672	0x688	inv
+1673	0x689	inv
+1674	0x68A	inv
+1675	0x68B	inv
+1676	0x68C	inv
+1677	0x68D	inv
+1678	0x68E	inv
+1679	0x68F	inv
+1680	Manila Rope	unk
+1681	Gas-Wash Bottle	unk
+1682	Familiar Statue	unk
+1683	Superficial Statue	unk
+1684	Spiritual Statue	unk
+1685	Scratched Lens	unk
+1686	Summon Bamboo	unk
+1687	Repulse Alloy	unk
+1688	Yin-Yang Charm	unk
+1689	Abyss Mirror	unk
+1690	0x69A	inv
+1691	0x69B	inv
+1692	0x69C	inv
+1693	0x69D	inv
+1694	0x69E	inv
+1695	0x69F	inv
+1696	0x6A0	inv
+1697	0x6A1	inv
+1698	0x6A2	inv
+1699	0x6A3	inv
+1700	0x6A4	inv
+1701	0x6A5	inv
+1702	0x6A6	inv
+1703	0x6A7	inv
+1704	0x6A8	inv
+1705	0x6A9	inv
+1706	0x6AA	inv
+1707	0x6AB	inv
+1708	0x6AC	inv
+1709	0x6AD	inv
+1710	0x6AE	inv
+1711	0x6AF	inv
+1712	White Pompom	unk
+1713	Arrow Sample	unk
+1714	Love Potion	unk
+1715	Hellish Pacifier	unk
+1716	Laxative	unk
+1717	Elizabeth's Note	unk
+1718	Manly Happi	unk
+1719	Ominous Key	unk
+1720	Old Watch	unk
+1721	Theodore #66	unk
+1722	Fragile Key	unk
+1723	Ice Key	unk
+1724	Broken Chain	unk
+1725	Yellow Orb	unk
+1726	Pink Orb	unk
+1727	Black Orb	unk
+1728	Red Orb	unk
+1729	Scarlet Brace	unk
+1730	Rock Dragon Wing	unk
+1731	Amenotamu-zake	unk
+1732	Blessed Loincloth	unk
+1733	Unlock Zeus 2	unk
+1734	Adamas Steel	unk
+1735	Lost Sheep Doll	unk
+1736	Pathos Recorder	unk
+1737	Promotion Ticket	unk
+1738	Discount Ticket	unk
+1739	Member Certificate	unk
+1740	Adamas Bookmark	unk
+1741	White Flower Pin	unk
+1742	Mucky Substance	unk
+1743	Nice Eyebrow	unk
+1744	Scapegoat	unk
+1745	Frayed Scapegoat	unk
+1746	0x6D2	inv
+1747	0x6D3	inv
+1748	0x6D4	inv
+1749	0x6D5	inv
+1750	0x6D6	inv
+1751	0x6D7	inv
+1752	0x6D8	inv
+1753	0x6D9	inv
+1754	0x6DA	inv
+1755	0x6DB	inv
+1756	0x6DC	inv
+1757	0x6DD	inv
+1758	0x6DE	inv
+1759	0x6DF	inv
+1760	0x6E0	inv
+1761	0x6E1	inv
+1762	0x6E2	inv
+1763	0x6E3	inv
+1764	0x6E4	inv
+1765	0x6E5	inv
+1766	0x6E6	inv
+1767	0x6E7	inv
+1768	0x6E8	inv
+1769	0x6E9	inv
+1770	0x6EA	inv
+1771	0x6EB	inv
+1772	0x6EC	inv
+1773	0x6ED	inv
+1774	0x6EE	inv
+1775	0x6EF	inv
+1776	0x6F0	inv
+1777	0x6F1	inv
+1778	0x6F2	inv
+1779	0x6F3	inv
+1780	0x6F4	inv
+1781	0x6F5	inv
+1782	0x6F6	inv
+1783	0x6F7	inv
+1784	0x6F8	inv
+1785	0x6F9	inv
+1786	0x6FA	inv
+1787	0x6FB	inv
+1788	0x6FC	inv
+1789	0x6FD	inv
+1790	0x6FE	inv
+1791	RESERVE	inv
+1792	Materials Start	unk
+1793	Fish Piece	unk
+1794	Fish Filet	unk
+1795	Fish Eye	unk
+1796	Lion Piece	unk
+1797	Lion Iron Ball	unk
+1798	Temp Lion	unk
+1799	Desk Piece	unk
+1800	Desk Leg	unk
+1801	Temp Desk	unk
+1802	Table Piece	unk
+1803	Table Leg	unk
+1804	Table Silverware	unk
+1805	Scale Piece	unk
+1806	Scale Dish	unk
+1807	Temp Scale	unk
+1808	Eagle Piece	unk
+1809	Eagle Wings	unk
+1810	Eagle Talons	unk
+1811	Adhesive Piece	unk
+1812	Adhesive Hand	unk
+1813	Temp Adhesive	unk
+1814	Tongue Piece	unk
+1815	Tongue Skin	unk
+1816	Temp Tongue	unk
+1817	Clapper Piece	unk
+1818	Clapper Skin	unk
+1819	Temp Clapper	unk
+1820	Sword Piece	unk
+1821	Sword Hilt	unk
+1822	Temp Sword	unk
+1823	Bug Piece	unk
+1824	Bug Horn	unk
+1825	Bug Shell	unk
+1826	Wealth Piece	unk
+1827	RESERVE	inv
+1828	RESERVE	inv
+1829	0x725	inv
+1830	0x726	inv
+1831	0x727	inv
+1832	0x728	inv
+1833	0x729	inv
+1834	0x72A	inv
+1835	0x72B	inv
+1836	0x72C	inv
+1837	0x72D	inv
+1838	0x72E	inv
+1839	0x72F	inv
+1840	Dancer Piece	unk
+1841	Dancer Shoes	unk
+1842	Temp Dancer	unk
+1843	Hoofer Piece	unk
+1844	Hoofer Shoes	unk
+1845	Temp Hoofer	unk
+1846	Butterfly Piece	unk
+1847	Butterfly Wing	unk
+1848	Temp Butterfly	unk
+1849	Shaman Piece	unk
+1850	Shaman Robe	unk
+1851	Shaman Ring	unk
+1852	Idol Piece	unk
+1853	Idol Veil	unk
+1854	Temp Idol	unk
+1855	Madonna Piece	unk
+1856	Madonna Veil	unk
+1857	Madonna Stool	unk
+1858	Madam Piece	unk
+1859	Madam Hat	unk
+1860	Temp Madam	unk
+1861	Snake Piece	unk
+1862	Snake Ring	unk
+1863	Snake Skin	unk
+1864	Serpent Piece	unk
+1865	Serpent Ring	unk
+1866	Serpent Scale	unk
+1867	Angel Piece	unk
+1868	Angel Arrow	unk
+1869	Temp Angel	unk
+1870	Eros Piece	unk
+1871	Eros Arrow	unk
+1872	Eros Wings	unk
+1873	Scripture Piece	unk
+1874	Scripture Latch	unk
+1875	Temp Scripture	unk
+1876	Rock Piece	unk
+1877	Rock Hand	unk
+1878	Rock Lump	unk
+1879	Boulder Piece	unk
+1880	Boulder Hand	unk
+1881	Temp Boulder	unk
+1882	Royal Piece	unk
+1883	Royal Stache	unk
+1884	Royal Crown	unk
+1885	Treasure Piece	unk
+1886	RESERVE	inv
+1887	RESERVE	inv
+1888	0x760	inv
+1889	0x761	inv
+1890	0x762	inv
+1891	0x763	inv
+1892	0x764	inv
+1893	0x765	inv
+1894	0x766	inv
+1895	0x767	inv
+1896	0x768	inv
+1897	0x769	inv
+1898	0x76A	inv
+1899	0x76B	inv
+1900	0x76C	inv
+1901	0x76D	inv
+1902	0x76E	inv
+1903	0x76F	inv
+1904	Lexy Piece	unk
+1905	Lexy Ribbon	unk
+1906	Lexy Cotton	unk
+1907	Calocy Piece	unk
+1908	Calocy Glasses	unk
+1909	Temp Calocy	unk
+1910	Urn Piece	unk
+1911	Urn Hair	unk
+1912	Cracked Urn	unk
+1913	Twins' Piece	unk
+1914	Twins' Handcuffs	unk
+1915	Temp Twins	unk
+1916	Cop Piece	unk
+1917	Cop Badge	unk
+1918	Temp Cop	unk
+1919	Ghost Piece	unk
+1920	Ghost Lamp	unk
+1921	Temp Ghost	unk
+1922	Phantom Piece	unk
+1923	Phantom Lamp	unk
+1924	Temp Phantom	unk
+1925	Statue Piece	unk
+1926	Statue Hinges	unk
+1927	Statue Blade	unk
+1928	Crow Piece	unk
+1929	Crow Feather	unk
+1930	Temp Crow	unk
+1931	Raven Piece	unk
+1932	Raven Feather	unk
+1933	Raven Beak	unk
+1934	Rainy Piece	unk
+1935	Rainy Breath	unk
+1936	Rainy Core	unk
+1937	Elder Piece	unk
+1938	Elder Mist	unk
+1939	Elder Core	unk
+1940	Sticky Piece	unk
+1941	Sticky Hand	unk
+1942	Sticky Jelly	unk
+1943	Mushy Piece	unk
+1944	Mushy Hand	unk
+1945	Temp Mushy	unk
+1946	Monitor Piece	unk
+1947	Monitor Brow	unk
+1948	Monitor Eye	unk
+1949	Supreme Piece	unk
+1950	RESERVE	inv
+1951	RESERVE	inv
+1952	0x7A0	inv
+1953	0x7A1	inv
+1954	0x7A2	inv
+1955	0x7A3	inv
+1956	0x7A4	inv
+1957	0x7A5	inv
+1958	0x7A6	inv
+1959	0x7A7	inv
+1960	0x7A8	inv
+1961	0x7A9	inv
+1962	0x7AA	inv
+1963	0x7AB	inv
+1964	0x7AC	inv
+1965	0x7AD	inv
+1966	0x7AE	inv
+1967	0x7AF	inv
+1968	Musha Piece	unk
+1969	Musha Helm	unk
+1970	Temp Musha	unk
+1971	Biceps Piece	unk
+1972	Biceps Mask	unk
+1973	Temp Biceps	unk
+1974	Triceps Piece	unk
+1975	Triceps Mask	unk
+1976	Temp Triceps	unk
+1977	Nyogo Piece	unk
+1978	Nyogo Kimono	unk
+1979	Temp Nyogo	unk
+1980	Leaf Piece	unk
+1981	Leaf Kimono	unk
+1982	Temp Leaf	unk
+1983	Spiral Piece	unk
+1984	Spiral Spring	unk
+1985	Temp Spiral	unk
+1986	Tower Piece	unk
+1987	Tower Crown	unk
+1988	Tower Eye	unk
+1989	Okina Piece	unk
+1990	Okina Coat	unk
+1991	Okina Staff	unk
+1992	Sage Piece	unk
+1993	Sage Coat	unk
+1994	Temp Sage	unk
+1995	Hanged Piece	unk
+1996	Hanged Cuffs	unk
+1997	Hanged Thorn	unk
+1998	Dice Piece	unk
+1999	Dice Pip	unk
+2000	Temp Dice	unk
+2001	Craps Piece	unk
+2002	Craps Lump	unk
+2003	Craps Eye	unk
+2004	Wheel Piece	unk
+2005	Wheel Axle	unk
+2006	Wheel Tail	unk
+2007	Tire Piece	unk
+2008	Tire Axle	unk
+2009	Tire Mane	unk
+2010	Machine Piece	unk
+2011	Machine Mallet	unk
+2012	Shock Club	unk
+2013	Opulent Piece	unk
+2014	RESERVE	inv
+2015	RESERVE	inv
+2016	0x7E0	inv
+2017	0x7E1	inv
+2018	0x7E2	inv
+2019	0x7E3	inv
+2020	0x7E4	inv
+2021	0x7E5	inv
+2022	0x7E6	inv
+2023	0x7E7	inv
+2024	0x7E8	inv
+2025	0x7E9	inv
+2026	0x7EA	inv
+2027	0x7EB	inv
+2028	0x7EC	inv
+2029	0x7ED	inv
+2030	0x7EE	inv
+2031	Black Loincloth	unk
+2032	Bull Piece	unk
+2033	Bull Chain	unk
+2034	Bull Horn	unk
+2035	Talisman Piece	unk
+2036	Talisman Cape	unk
+2037	Talisman Staff	unk
+2038	Castle Piece	unk
+2039	Castle Rubble	unk
+2040	Castle Cannon	unk
+2041	Knight Piece	unk
+2042	Knight Reins	unk
+2043	Knight Lance	unk
+2044	Drive Piece	unk
+2045	Drive Wheel	unk
+2046	Drive Sword	unk
+2047	H Drive Piece	unk
+2048	H Drive Wheel	unk
+2049	H Drive Gear	unk
+2050	Turret Piece	unk
+2051	Turret Cannon	unk
+2052	Turret Belt	unk
+2053	B Horse Piece	unk
+2054	B Horse Cuffs	unk
+2055	B Horse Chain	unk
+2056	W Horse Piece	unk
+2057	W Horse Cuffs	unk
+2058	Temp W Horse	unk
+2059	Ring Piece	unk
+2060	Ring Lump	unk
+2061	Fire Ring Lump	unk
+2062	Red Ring Piece	unk
+2063	Red Ring Lump	unk
+2064	Temp Red Ring	unk
+2065	R Turret Piece	unk
+2066	R Cannon	unk
+2067	Temp Red Turret	unk
+2068	Giant Piece	unk
+2069	Giant Hilt	unk
+2070	Giant Sword	unk
+2071	Luxury Piece	unk
+2072	RESERVE	inv
+2073	RESERVE	inv
+2074	0x81A	inv
+2075	0x81B	inv
+2076	0x81C	inv
+2077	0x81D	inv
+2078	0x81E	inv
+2079	0x81F	inv
+2080	0x820	inv
+2081	0x821	inv
+2082	0x822	inv
+2083	0x823	inv
+2084	0x824	inv
+2085	0x825	inv
+2086	0x826	inv
+2087	0x827	inv
+2088	0x828	inv
+2089	0x829	inv
+2090	Ripped Card	unk
+2091	0x82B	inv
+2092	0x82C	inv
+2093	Painted Card	unk
+2094	0x82E	inv
+2095	0x82F	inv
+2096	Love Shard	unk
+2097	0x831	inv
+2098	0x832	inv
+2099	Lust Shard	unk
+2100	0x834	inv
+2101	0x835	inv
+2102	Passion Shard	unk
+2103	0x837	inv
+2104	0x838	inv
+2105	Romance Shard	unk
+2106	0x83A	inv
+2107	0x83B	inv
+2108	Old Pacifier	unk
+2109	0x83D	inv
+2110	0x83E	inv
+2111	Red Clothes	unk
+2112	0x840	inv
+2113	0x841	inv
+2114	Blue Clothes	unk
+2115	0x843	inv
+2116	0x844	inv
+2117	Kanroshu	unk
+2118	0x846	inv
+2119	0x847	inv
+2120	Daiginjo	unk
+2121	0x849	inv
+2122	0x84A	inv
+2123	Dripping Sweat	unk
+2124	0x84C	inv
+2125	0x84D	inv
+2126	Hyottoko Mask	unk
+2127	0x84F	inv
+2128	0x850	inv
+2129	Speed Mask	unk
+2130	0x852	inv
+2131	0x853	inv
+2132	Compound Eye	unk
+2133	0x855	inv
+2134	0x856	inv
+2135	Tangled Thread	unk
+2136	0x858	inv
+2137	0x859	inv
+2138	Death's Order	unk
+2139	0x85B	inv
+2140	0x85C	inv
+2141	0x85D	inv
+2142	0x85E	inv
+2143	0x85F	inv
+2144	0x860	inv
+2145	0x861	inv
+2146	0x862	inv
+2147	0x863	inv
+2148	0x864	inv
+2149	0x865	inv
+2150	0x866	inv
+2151	0x867	inv
+2152	0x868	inv
+2153	0x869	inv
+2154	0x86A	inv
+2155	0x86B	inv
+2156	0x86C	inv
+2157	0x86D	inv
+2158	0x86E	inv
+2159	0x86F	inv
+2160	Children's Book	unk
+2161	0x871	inv
+2162	0x872	inv
+2163	Torn Bible	unk
+2164	0x874	inv
+2165	0x875	inv
+2166	Broken Gauge	unk
+2167	0x877	inv
+2168	0x878	inv
+2169	Hand-Sewn Vest	unk
+2170	0x87A	inv
+2171	0x87B	inv
+2172	0x87C	inv
+2173	0x87D	inv
+2174	0x87E	inv
+2175	0x87F	inv
+2176	0x880	inv
+2177	0x881	inv
+2178	Bug Gold	unk
+2179	0x883	inv
+2180	0x884	inv
+2181	Royal Gold	unk
+2182	0x886	inv
+2183	0x887	inv
+2184	Monitor Gold	unk
+2185	0x889	inv
+2186	0x88A	inv
+2187	Machine Gold	unk
+2188	0x88C	inv
+2189	0x88D	inv
+2190	0x88E	inv
+2191	0x88F	inv
+2192	0x890	inv
+2193	0x891	inv
+2194	0x892	inv
+2195	0x893	inv
+2196	0x894	inv
+2197	0x895	inv
+2198	0x896	inv
+2199	0x897	inv
+2200	0x898	inv
+2201	0x899	inv
+2202	0x89A	inv
+2203	0x89B	inv
+2204	0x89C	inv
+2205	0x89D	inv
+2206	0x89E	inv
+2207	0x89F	inv
+2208	0x8A0	inv
+2209	0x8A1	inv
+2210	0x8A2	inv
+2211	0x8A3	inv
+2212	0x8A4	inv
+2213	0x8A5	inv
+2214	0x8A6	inv
+2215	0x8A7	inv
+2216	0x8A8	inv
+2217	0x8A9	inv
+2218	0x8AA	inv
+2219	0x8AB	inv
+2220	0x8AC	inv
+2221	0x8AD	inv
+2222	0x8AE	inv
+2223	0x8AF	inv
+2224	0x8B0	inv
+2225	0x8B1	inv
+2226	0x8B2	inv
+2227	0x8B3	inv
+2228	0x8B4	inv
+2229	0x8B5	inv
+2230	0x8B6	inv
+2231	0x8B7	inv
+2232	0x8B8	inv
+2233	0x8B9	inv
+2234	0x8BA	inv
+2235	0x8BB	inv
+2236	0x8BC	inv
+2237	0x8BD	inv
+2238	0x8BE	inv
+2239	0x8BF	inv
+2240	0x8C0	inv
+2241	0x8C1	inv
+2242	0x8C2	inv
+2243	0x8C3	inv
+2244	0x8C4	inv
+2245	0x8C5	inv
+2246	0x8C6	inv
+2247	0x8C7	inv
+2248	0x8C8	inv
+2249	0x8C9	inv
+2250	0x8CA	inv
+2251	0x8CB	inv
+2252	0x8CC	inv
+2253	0x8CD	inv
+2254	0x8CE	inv
+2255	0x8CF	inv
+2256	0x8D0	inv
+2257	0x8D1	inv
+2258	0x8D2	inv
+2259	0x8D3	inv
+2260	0x8D4	inv
+2261	0x8D5	inv
+2262	0x8D6	inv
+2263	0x8D7	inv
+2264	0x8D8	inv
+2265	0x8D9	inv
+2266	0x8DA	inv
+2267	0x8DB	inv
+2268	0x8DC	inv
+2269	0x8DD	inv
+2270	0x8DE	inv
+2271	0x8DF	inv
+2272	0x8E0	inv
+2273	0x8E1	inv
+2274	0x8E2	inv
+2275	0x8E3	inv
+2276	0x8E4	inv
+2277	0x8E5	inv
+2278	0x8E6	inv
+2279	0x8E7	inv
+2280	0x8E8	inv
+2281	0x8E9	inv
+2282	0x8EA	inv
+2283	0x8EB	inv
+2284	0x8EC	inv
+2285	0x8ED	inv
+2286	0x8EE	inv
+2287	0x8EF	inv
+2288	0x8F0	inv
+2289	0x8F1	inv
+2290	0x8F2	inv
+2291	0x8F3	inv
+2292	0x8F4	inv
+2293	0x8F5	inv
+2294	0x8F6	inv
+2295	0x8F7	inv
+2296	0x8F8	inv
+2297	0x8F9	inv
+2298	0x8FA	inv
+2299	0x8FB	inv
+2300	0x8FC	inv
+2301	0x8FD	inv
+2302	0x8FE	inv
+2303	0x8FF	inv
+2304	Orochi Tail	unk
+2305	Pixie Wing	unk
+2306	Genbu Shell	unk
+2307	Suzaku Plume	unk
+2308	Black Lantern	unk
+2309	Lamp Shard	unk
+2310	Byakko Claw	unk
+2311	King Snowball	unk
+2312	Lust Pheromone	unk
+2313	Nue Claw	unk
+2314	Skadi's Shard	unk
+2315	Matador Sword	unk
+2316	Seiryu Scale	unk
+2317	Cybele Hair	unk
+2318	Club Shard	unk
+2319	Fearsome Shard	unk
+2320	Claw Shard	unk
+2321	Yoshitsune Shard	unk
+2322	Masakado Shard	unk
+2323	Asura Bone	unk
+2324	Vishnu Shard	unk
+2325	Huaguo's Rock	unk
+2326	Skanda's Wing	unk
+2327	Broken Tablet	unk
+2328	Opposer's Wing	unk
+2329	Ominous Fang	unk
+2330	Seraph Wing	unk
+2331	Destroyer's Rage	unk
+2332	Michael Shard	unk
+2333	Chi You Shard	unk
+2334	Goddess Obsidian	unk
+2335	Broken Spear	unk
+2336	Trickster Karma	unk
+2337	Fly Shard	unk
+2338	0x922	inv
+2339	0x923	inv
+2340	0x924	inv
+2341	0x925	inv
+2342	0x926	inv
+2343	0x927	inv
+2344	0x928	inv
+2345	0x929	inv
+2346	0x92A	inv
+2347	0x92B	inv
+2348	0x92C	inv
+2349	0x92D	inv
+2350	0x92E	inv
+2351	0x92F	inv
+2352	0x930	inv
+2353	0x931	inv
+2354	0x932	inv
+2355	0x933	inv
+2356	0x934	inv
+2357	0x935	inv
+2358	0x936	inv
+2359	0x937	inv
+2360	0x938	inv
+2361	0x939	inv
+2362	0x93A	inv
+2363	0x93B	inv
+2364	0x93C	inv
+2365	0x93D	inv
+2366	0x93E	inv
+2367	0x93F	inv
+2368	0x940	inv
+2369	0x941	inv
+2370	0x942	inv
+2371	0x943	inv
+2372	0x944	inv
+2373	0x945	inv
+2374	0x946	inv
+2375	0x947	inv
+2376	0x948	inv
+2377	0x949	inv
+2378	0x94A	inv
+2379	0x94B	inv
+2380	0x94C	inv
+2381	0x94D	inv
+2382	0x94E	inv
+2383	0x94F	inv
+2384	0x950	inv
+2385	0x951	inv
+2386	0x952	inv
+2387	0x953	inv
+2388	0x954	inv
+2389	0x955	inv
+2390	0x956	inv
+2391	0x957	inv
+2392	0x958	inv
+2393	0x959	inv
+2394	0x95A	inv
+2395	0x95B	inv
+2396	0x95C	inv
+2397	0x95D	inv
+2398	0x95E	inv
+2399	0x95F	inv
+2400	0x960	inv
+2401	0x961	inv
+2402	0x962	inv
+2403	0x963	inv
+2404	0x964	inv
+2405	0x965	inv
+2406	0x966	inv
+2407	0x967	inv
+2408	0x968	inv
+2409	0x969	inv
+2410	0x96A	inv
+2411	0x96B	inv
+2412	0x96C	inv
+2413	0x96D	inv
+2414	0x96E	inv
+2415	0x96F	inv
+2416	0x970	inv
+2417	0x971	inv
+2418	0x972	inv
+2419	0x973	inv
+2420	0x974	inv
+2421	0x975	inv
+2422	0x976	inv
+2423	0x977	inv
+2424	0x978	inv
+2425	0x979	inv
+2426	0x97A	inv
+2427	0x97B	inv
+2428	0x97C	inv
+2429	0x97D	inv
+2430	0x97E	inv
+2431	0x97F	inv
+2432	0x980	inv
+2433	0x981	inv
+2434	0x982	inv
+2435	0x983	inv
+2436	0x984	inv
+2437	0x985	inv
+2438	0x986	inv
+2439	0x987	inv
+2440	0x988	inv
+2441	0x989	inv
+2442	0x98A	inv
+2443	0x98B	inv
+2444	0x98C	inv
+2445	0x98D	inv
+2446	Shadow Piece	unk
+2447	0x98F	inv
+2448	Cake Page	unk
+2449	Mushroom Page	unk
+2450	Tart Page	unk
+2451	Turtle Page	unk
+2452	Gryphon Page	unk
+2453	Dormouse Page	unk
+2454	Hatter Page	unk
+2455	Cook Page	unk
+2456	Duchess Page	unk
+2457	0x999	inv
+2458	0x99A	inv
+2459	0x99B	inv
+2460	Dried Rose	unk
+2461	Dried Orchid	unk
+2462	Dried Amaryllis	unk
+2463	Chipped Candle	unk
+2464	Chipped Choker	unk
+2465	Chipped Necklace	unk
+2466	Cracked Tiara	unk
+2467	Cracked Earring	unk
+2468	Cracked Heels	unk
+2469	Ripped Veil	unk
+2470	Ripped Shawl	unk
+2471	Ripped Dress	unk
+2472	Date Treasure 13	unk
+2473	Date Treasure 14	unk
+2474	Date Treasure 15	unk
+2475	Date Treasure 16	unk
+2476	Note Page	unk
+2477	Textbook Page	unk
+2478	Document Page	unk
+2479	Ripped Schedule	unk
+2480	Ripped Nametag	unk
+2481	Ripped Emblem	unk
+2482	Rusted Syringe	unk
+2483	Rusted Scalpel	unk
+2484	Rusted Tweezers	unk
+2485	Bloody Bandage	unk
+2486	Bloody Gauze	unk
+2487	Bloody Chart	unk
+2488	Horror Treasure 13	unk
+2489	Horror Treasure 14	unk
+2490	Horror Treasure 15	unk
+2491	Horror Treasure 16	unk
+2492	Agarwood	unk
+2493	Sandalwood	unk
+2494	Kyarako	unk
+2495	Music Sheet 260	unk
+2496	Music Sheet 657	unk
+2497	Music Sheet 581	unk
+2498	Lily	unk
+2499	Carnation	unk
+2500	Chrysanthemum	unk
+2501	White Belt	unk
+2502	White Candle	unk
+2503	White Pot	unk
+2504	Festival Treasure 13	unk
+2505	Festival Treasure 14	unk
+2506	Festival Treasure 15	unk
+2507	Festival Treasure 16	unk
+2508	Cloudy Crystal	unk
+2509	Dirty Crystal	unk
+2510	Cracked Crystal	unk
+2511	Grey Clockwork	unk
+2512	Silver Clockwork	unk
+2513	Gold Clockwork	unk
+2514	Still Pendulum	unk
+2515	Non-Tuning Fork	unk
+2516	Stripped Screw	unk
+2517	Broken 3rd Gear	unk
+2518	Broken 2nd Gear	unk
+2519	Split Gearshaft	unk
+2520	0x9D8	inv
+2521	0x9D9	inv
+2522	0x9DA	inv
+2523	Manila Rope	unk
+2524	Gas-Wash Bottle	unk
+2525	Familiar Statue	unk
+2526	Superficial Statue	unk
+2527	Spiritual Statue	unk
+2528	Scratched Lens	unk
+2529	Summon Bamboo	unk
+2530	Repulse Alloy	unk
+2531	Yin-Yang Charm	unk
+2532	Abyss Mirror	unk
+2533	0x9E5	inv
+2534	0x9E6	inv
+2535	0x9E7	inv
+2536	0x9E8	inv
+2537	0x9E9	inv
+2538	0x9EA	inv
+2539	0x9EB	inv
+2540	0x9EC	inv
+2541	0x9ED	inv
+2542	0x9EE	inv
+2543	0x9EF	inv
+2544	Adamas Steel	unk
+2545	Labyrinth Parts	unk
+2546	0x9F2	inv
+2547	0x9F3	inv
+2548	0x9F4	inv
+2549	0x9F5	inv
+2550	0x9F6	inv
+2551	0x9F7	inv
+2552	0x9F8	inv
+2553	0x9F9	inv
+2554	0x9FA	inv
+2555	0x9FB	inv
+2556	0x9FC	inv
+2557	0x9FD	inv
+2558	0x9FE	inv
+2559	RESERVE	inv
+2560	Skill Card Start	unk
+2561	0xA01	inv
+2562	Agi	unk
+2563	Agilao	unk
+2564	Agidyne	unk
+2565	Maragi	unk
+2566	Maragion	unk
+2567	Maragidyne	unk
+2568	Fire Spray	unk
+2569	Ragnarok	unk
+2570	0xA0A	inv
+2571	0xA0B	inv
+2572	0xA0C	inv
+2573	0xA0D	inv
+2574	Garu	unk
+2575	Garula	unk
+2576	Garudyne	unk
+2577	Magaru	unk
+2578	Magarula	unk
+2579	Magarudyne	unk
+2580	Cyclone	unk
+2581	Panta Rhei	unk
+2582	0xA16	inv
+2583	0xA17	inv
+2584	0xA18	inv
+2585	0xA19	inv
+2586	Bufu	unk
+2587	Bufula	unk
+2588	Bufudyne	unk
+2589	Mabufu	unk
+2590	Mabufula	unk
+2591	Mabufudyne	unk
+2592	Icy Paradise	unk
+2593	Niflheim	unk
+2594	Frozen Spear	unk
+2595	0xA23	inv
+2596	0xA24	inv
+2597	0xA25	inv
+2598	0xA26	inv
+2599	Zio	unk
+2600	Zionga	unk
+2601	Ziodyne	unk
+2602	Mazio	unk
+2603	Mazionga	unk
+2604	Maziodyne	unk
+2605	0xA2D	inv
+2606	Thunder Reign	unk
+2607	Keraunos	unk
+2608	Thunder Clap	unk
+2609	0xA31	inv
+2610	0xA32	inv
+2611	Megido	unk
+2612	Megidola	unk
+2613	Megidolaon	unk
+2614	0xA36	inv
+2615	Black Viper	unk
+2616	Morning Star	unk
+2617	0xA39	inv
+2618	0xA3A	inv
+2619	0xA3B	inv
+2620	0xA3C	inv
+2621	Hama	unk
+2622	Hamaon	unk
+2623	Mahama	unk
+2624	Mahamaon	unk
+2625	0xA41	inv
+2626	0xA42	inv
+2627	Samsara	unk
+2628	0xA44	inv
+2629	0xA45	inv
+2630	0xA46	inv
+2631	0xA47	inv
+2632	Mudo	unk
+2633	Mudoon	unk
+2634	Mamudo	unk
+2635	Mamudoon	unk
+2636	0xA4C	inv
+2637	0xA4D	inv
+2638	Die For Me!	unk
+2639	0xA4F	inv
+2640	0xA50	inv
+2641	0xA51	inv
+2642	0xA52	inv
+2643	Pulinpa	unk
+2644	Tentarafoo	unk
+2645	Poisma	unk
+2646	Poison Breath	unk
+2647	0xA57	inv
+2648	0xA58	inv
+2649	Dormina	unk
+2650	Lullaby Song	unk
+2651	Evil Touch	unk
+2652	Evil Smile	unk
+2653	0xA5D	inv
+2654	0xA5E	inv
+2655	0xA5F	inv
+2656	0xA60	inv
+2657	0xA61	inv
+2658	0xA62	inv
+2659	0xA63	inv
+2660	0xA64	inv
+2661	0xA65	inv
+2662	0xA66	inv
+2663	0xA67	inv
+2664	0xA68	inv
+2665	0xA69	inv
+2666	0xA6A	inv
+2667	0xA6B	inv
+2668	0xA6C	inv
+2669	0xA6D	inv
+2670	0xA6E	inv
+2671	0xA6F	inv
+2672	0xA70	inv
+2673	0xA71	inv
+2674	0xA72	inv
+2675	0xA73	inv
+2676	0xA74	inv
+2677	0xA75	inv
+2678	0xA76	inv
+2679	0xA77	inv
+2680	0xA78	inv
+2681	0xA79	inv
+2682	0xA7A	inv
+2683	0xA7B	inv
+2684	0xA7C	inv
+2685	0xA7D	inv
+2686	0xA7E	inv
+2687	0xA7F	inv
+2688	0xA80	inv
+2689	Fang Smash	unk
+2690	Kidney Smash	unk
+2691	Cleave	unk
+2692	Twin Slash	unk
+2693	End Shot	unk
+2694	Double Shot	unk
+2695	Mighty Swing	unk
+2696	Fatal End	unk
+2697	Silent Thrust	unk
+2698	Swift Strike	unk
+2699	Frost Edge	unk
+2700	Zanshinken	unk
+2701	0xA8D	inv
+2702	Death Needle	unk
+2703	Guillotine	unk
+2704	Tempest Slash	unk
+2705	Bolt Strike	unk
+2706	Holy Touch	unk
+2707	Revenge Blow	unk
+2708	0xA94	inv
+2709	Gigantic Fist	unk
+2710	Single Shot	unk
+2711	Scarecrow	unk
+2712	Disarm	unk
+2713	Makajam	unk
+2714	Assault Shot	unk
+2715	Primal Force	unk
+2716	Heavy Shot	unk
+2717	Broadshot	unk
+2718	Myriad Arrows	unk
+2719	Punishment	unk
+2720	Assault Dive	unk
+2721	Sleeper Punch	unk
+2722	Teardrop	unk
+2723	Buchikamashi	unk
+2724	Deathbound	unk
+2725	Blade of Fury	unk
+2726	Glacial Edge	unk
+2727	Vorpal Blade	unk
+2728	Danse Macabre	unk
+2729	Skull Cracker	unk
+2730	Fusion Blast	unk
+2731	Heat Wave	unk
+2732	Light Wave	unk
+2733	0xAAD	inv
+2734	Brutal Slash	unk
+2735	Photon Edge	unk
+2736	Prana	unk
+2737	Heaven's Blade	unk
+2738	God's Hand	unk
+2739	Angelic Trumpet	unk
+2740	Hassou Tobi	unk
+2741	Hailstorm	unk
+2742	Arrow Rain	unk
+2743	Aeon Rain	unk
+2744	Blinding Slice	unk
+2745	Toxic Slice	unk
+2746	Dream Slice	unk
+2747	Stunning Slice	unk
+2748	Bane Slice	unk
+2749	Gurentou	unk
+2750	Tousatsujin	unk
+2751	Raikouzan	unk
+2752	Jinpugeki	unk
+2753	Shinkuuha	unk
+2754	Resseiha	unk
+2755	Pralaya	unk
+2756	Shadow Run	unk
+2757	World's End	unk
+2758	Raimeizan	unk
+2759	Raijinzan	unk
+2760	Gokuentou	unk
+2761	Hientou	unk
+2762	Reppu Strike	unk
+2763	Kamikaze Strike	unk
+2764	Hex Slice	unk
+2765	Soul Slice	unk
+2766	0xACE	inv
+2767	0xACF	inv
+2768	0xAD0	inv
+2769	Dia	unk
+2770	Diarama	unk
+2771	Diarahan	unk
+2772	Recovery	unk
+2773	Life Goblet	unk
+2774	Media	unk
+2775	Mediarama	unk
+2776	Mediarahan	unk
+2777	Recarm	unk
+2778	Samarecarm	unk
+2779	0xADB	inv
+2780	Renewal	unk
+2781	Patra	unk
+2782	Refresh	unk
+2783	Me Patra	unk
+2784	Mutudi	unk
+2785	Becalm	unk
+2786	Mamutudi	unk
+2787	Amrita	unk
+2788	0xAE4	inv
+2789	0xAE5	inv
+2790	Bestial Roar	unk
+2791	Dragon Cry	unk
+2792	0xAE8	inv
+2793	0xAE9	inv
+2794	Shadow Cloak	unk
+2795	0xAEB	inv
+2796	Pain-Eater	unk
+2797	Safeguard	unk
+2798	Body Shield	unk
+2799	Life Wall	unk
+2800	True Warden	unk
+2801	Holy Blessing	unk
+2802	Guiding Sword	unk
+2803	Guarding Staff	unk
+2804	0xAF4	inv
+2805	Critical Eye	unk
+2806	0xAF6	inv
+2807	Matarukaja	unk
+2808	Marakukaja	unk
+2809	Masukukaja	unk
+2810	Power Charge	unk
+2811	Mind Charge	unk
+2812	0xAFC	inv
+2813	0xAFD	inv
+2814	0xAFE	inv
+2815	0xAFF	inv
+2816	0xB00	inv
+2817	0xB01	inv
+2818	0xB02	inv
+2819	0xB03	inv
+2820	0xB04	inv
+2821	Matarunda	unk
+2822	Marakunda	unk
+2823	Masukunda	unk
+2824	0xB08	inv
+2825	0xB09	inv
+2826	0xB0A	inv
+2827	0xB0B	inv
+2828	Stagnant Air	unk
+2829	Salome's Kiss	unk
+2830	0xB0E	inv
+2831	0xB0F	inv
+2832	0xB10	inv
+2833	Dekaja	unk
+2834	Dekunda	unk
+2835	0xB13	inv
+2836	0xB14	inv
+2837	0xB15	inv
+2838	Fire Wall	unk
+2839	Wind Wall	unk
+2840	Ice Wall	unk
+2841	Elec Wall	unk
+2842	Light Wall	unk
+2843	Dark Wall	unk
+2844	Tarukaja	unk
+2845	Rakukaja	unk
+2846	Sukukaja	unk
+2847	Tarunda	unk
+2848	Rakunda	unk
+2849	Sukunda	unk
+2850	Debilitate	unk
+2851	Heat Riser	unk
+2852	Mind's Eye	unk
+2853	Door of Hades	unk
+2854	Call to Hades	unk
+2855	Calamity Seed	unk
+2856	Calamity's Advent	unk
+2857	Lunar Blessing	unk
+2858	0xB2A	inv
+2859	Healing Harp	unk
+2860	Healing Harp	unk
+2861	Lightning Smash	unk
+2862	Thunder Smash	unk
+2863	Scorching Blast	unk
+2864	Nuclear Blast	unk
+2865	Sonic Punch	unk
+2866	Brain Shake	unk
+2867	Moondrop	unk
+2868	Stardrop	unk
+2869	0xB35	inv
+2870	0xB36	inv
+2871	0xB37	inv
+2872	0xB38	inv
+2873	0xB39	inv
+2874	0xB3A	inv
+2875	0xB3B	inv
+2876	0xB3C	inv
+2877	0xB3D	inv
+2878	0xB3E	inv
+2879	0xB3F	inv
+2880	0xB40	inv
+2881	All-Out Attack	unk
+2882	Sutakora Foot	unk
+2883	Analyze	unk
+2884	Full Analysis	unk
+2885	Snake Glare	unk
+2886	Heroic Wind	unk
+2887	0xB47	inv
+2888	0xB48	inv
+2889	0xB49	inv
+2890	0xB4A	inv
+2891	Harvest Prayer	unk
+2892	Cornucopia	unk
+2893	Healing Tide	unk
+2894	Healing Tide	unk
+2895	Renewal Ray	unk
+2896	Renewal Aura	unk
+2897	Healing Breeze	unk
+2898	Spotlight	unk
+2899	Yomi Return	unk
+2900	0xB54	inv
+2901	Orb of Resolve	unk
+2902	Orb of Power	unk
+2903	Orb of Haste	unk
+2904	Life Aid	unk
+2905	Victory Cry	unk
+2906	Safety Prayer	unk
+2907	Calming Lull	unk
+2908	Spotter	unk
+2909	Magic Mallet	unk
+2910	Fanfare	unk
+2911	Into the Void	unk
+2912	Tidal Wave	unk
+2913	Oracle	unk
+2914	0xB62	inv
+2915	0xB63	inv
+2916	0xB64	inv
+2917	0xB65	inv
+2918	0xB66	inv
+2919	0xB67	inv
+2920	0xB68	inv
+2921	Prayer	unk
+2922	Vigilant Sonar	unk
+2923	Treasure Hunter	unk
+2924	Fortune Hunter	unk
+2925	Faerie's Vigil	unk
+2926	Tengu's Vigil	unk
+2927	Clairvoyance	unk
+2928	Farsight	unk
+2929	Purifying Rain	unk
+2930	0xB72	inv
+2931	Zero Set	unk
+2932	Eternal Melody	unk
+2933	0xB75	inv
+2934	0xB76	inv
+2935	0xB77	inv
+2936	0xB78	inv
+2937	Hunting Prayer	unk
+2938	Endless Bounty	unk
+2939	0xB7B	inv
+2940	Alleys of Light	unk
+2941	Paths of Light	unk
+2942	Roads of Light	unk
+2943	0xB7F	inv
+2944	0xB80	inv
+2945	Stun Circle	unk
+2946	0xB82	inv
+2947	Sleep Circle	unk
+2948	0xB84	inv
+2949	Poison Circle	unk
+2950	0xB85	inv
+2951	Panic Circle	unk
+2952	0xB88	inv
+2953	Silence Circle	unk
+2954	0xB8A	inv
+2955	Decay Circle	unk
+2956	0xB8C	inv
+2957	Lethargy Circle	unk
+2958	0xB8E	inv
+2959	Summon Ghost	unk
+2960	Summon Demon	unk
+2961	Shura Tensei	unk
+2962	Shura Revert	unk
+2963	Shura Instincts	unk
+2964	0xB94	inv
+2965	0xB95	inv
+2966	Heal Memento	unk
+2967	0xB97	inv
+2968	Free Memento	unk
+2969	0xB99	inv
+2970	Pure Memento	unk
+2971	0xB9B	inv
+2972	0xB9C	inv
+2973	Death Counter	unk
+2974	0xB9E	inv
+2975	Death Chaser	unk
+2976	0xBA0	inv
+2977	Fierce Stance	unk
+2978	0xBA2	inv
+2979	0xBA3	inv
+2980	0xBA4	inv
+2981	Healing Step	unk
+2982	0xBA6	inv
+2983	Rush Dance	unk
+2984	0xBA8	inv
+2985	Flame Link	unk
+2986	0xBAA	inv
+2987	Frost Link	unk
+2988	0xBAC	inv
+2989	Bolt Link	unk
+2990	0xBAE	inv
+2991	Gale Link	unk
+2992	0xBB0	inv
+2993	Pain Watcher	unk
+2994	Auto-Cloak	unk
+2995	0xBB3	inv
+2996	0xBB4	inv
+2997	0xBB5	inv
+2998	0xBB6	inv
+2999	0xBB7	inv
+3000	0xBB8	inv
+3001	0xBB9	inv
+3002	0xBBA	inv
+3003	0xBBB	inv
+3004	0xBBC	inv
+3005	0xBBD	inv
+3006	0xBBE	inv
+3007	0xBBF	inv
+3008	0xBC0	inv
+3009	0xBC1	inv
+3010	0xBC2	inv
+3011	0xBC3	inv
+3012	0xBC4	inv
+3013	0xBC5	inv
+3014	0xBC6	inv
+3015	0xBC7	inv
+3016	0xBC8	inv
+3017	0xBC9	inv
+3018	0xBCA	inv
+3019	0xBCB	inv
+3020	0xBCC	inv
+3021	0xBCD	inv
+3022	0xBCE	inv
+3023	0xBCF	inv
+3024	0xBD0	inv
+3025	0xBD1	inv
+3026	0xBD2	inv
+3027	0xBD3	inv
+3028	0xBD4	inv
+3029	0xBD5	inv
+3030	0xBD6	inv
+3031	0xBD7	inv
+3032	Bloody Vanguard	unk
+3033	Deadly Vanguard	unk
+3034	0xBDA	inv
+3035	0xBDB	inv
+3036	Squire Card	unk
+3037	Knight Card	unk
+3038	0xBDE	inv
+3039	0xBDF	inv
+3040	0xBE0	inv
+3041	0xBE1	inv
+3042	0xBE2	inv
+3043	0xBE3	inv
+3044	0xBE4	inv
+3045	0xBE5	inv
+3046	Rebel Spirit	unk
+3047	Uprising	unk
+3048	0xBE8	inv
+3049	0xBE9	inv
+3050	0xBEA	inv
+3051	0xBEB	inv
+3052	0xBEC	inv
+3053	0xBED	inv
+3054	0xBEE	inv
+3055	0xBEF	inv
+3056	0xBF0	inv
+3057	0xBF1	inv
+3058	Heroic Gemini	unk
+3059	Golden Gemini	unk
+3060	Runic Shield	unk
+3061	Aegis Shield	unk
+3062	Swordbreaker	unk
+3063	0xBF7	inv
+3064	0xBF8	inv
+3065	First Star	unk
+3066	Binding Hands	unk
+3067	Restoring Touch	unk
+3068	Warrior Title	unk
+3069	Conqueror Title	unk
+3070	0xBFE	inv
+3071	Healing Hand	unk
+3072	Dia Guard	unk
+3073	Diarama Guard	unk
+3074	Colossal Swing	unk
+3075	Whirlwind Swing	unk
+3076	Golden Link	unk
+3077	0xC05	inv
+3078	Forked Spear	unk
+3079	Trick Step	unk
+3080	Endure	unk
+3081	0xC09	inv
+3082	Immunity Buffer	unk
+3083	Lemegeton	unk
+3084	Platinum Coin	unk
+3085	Absorb Fire	unk
+3086	Absorb Wind	unk
+3087	Absorb Ice	unk
+3088	Absorb Elec	unk
+3089	0xC11	inv
+3090	Fire Boost	unk
+3091	Ice Boost	unk
+3092	Elec Boost	unk
+3093	Wind Boost	unk
+3094	Fire Amp	unk
+3095	Ice Amp	unk
+3096	Elec Amp	unk
+3097	Wind Amp	unk
+3098	0xC1A	inv
+3099	0xC1B	inv
+3100	0xC1C	inv
+3101	0xC1D	inv
+3102	Death's Scythe	unk
+3103	Impure Reach	unk
+3104	0xC20	inv
+3105	Circle Recovery	unk
+3106	King Card	unk
+3107	Inferno Boost	unk
+3108	Tornado Boost	unk
+3109	Powerhouse	unk
+3110	0xC26	inv
+3111	0xC27	inv
+3112	0xC28	inv
+3113	Target Boost	unk
+3114	0xC2A	inv
+3115	0xC2B	inv
+3116	0xC2C	inv
+3117	0xC2D	inv
+3118	0xC2E	inv
+3119	0xC2F	inv
+3120	0xC30	inv
+3121	0xC31	inv
+3122	0xC32	inv
+3123	Serene Journey	unk
+3124	0xC34	inv
+3125	0xC35	inv
+3126	Double Link	unk
+3127	0xC37	inv
+3128	0xC38	inv
+3129	0xC39	inv
+3130	0xC3A	inv
+3131	0xC3B	inv
+3132	0xC3C	inv
+3133	0xC3D	inv
+3134	0xC3E	inv
+3135	0xC3F	inv
+3136	0xC40	inv
+3137	Resist Fire	unk
+3138	Resist Ice	unk
+3139	Resist Elec	unk
+3140	Resist Wind	unk
+3141	Resist Light	unk
+3142	Resist Dark	unk
+3143	0xC47	inv
+3144	0xC48	inv
+3145	0xC49	inv
+3146	Null Petrify	unk
+3147	Null Sleep	unk
+3148	Null Panic	unk
+3149	Null Poison	unk
+3150	0xC4E	inv
+3151	Null Curse	unk
+3152	Null Paralysis	unk
+3153	0xC51	inv
+3154	0xC52	inv
+3155	Judgement Sword	unk
+3156	Judgement Sword	unk
+3157	Null M-Bind	unk
+3158	Null S-Bind	unk
+3159	Null A-Bind	unk
+3160	Demon's Cut	unk
+3161	Demon's Bash	unk
+3162	Demon's Stab	unk
+3163	God's Cut	unk
+3164	God's Bash	unk
+3165	God's Stab	unk
+3166	0xC5E	inv
+3167	0xC5F	inv
+3168	0xC60	inv
+3169	0xC61	inv
+3170	0xC62	inv
+3171	0xC63	inv
+3172	0xC64	inv
+3173	0xC65	inv
+3174	0xC66	inv
+3175	0xC67	inv
+3176	0xC68	inv
+3177	0xC69	inv
+3178	0xC6A	inv
+3179	0xC6B	inv
+3180	0xC6C	inv
+3181	0xC6D	inv
+3182	0xC6E	inv
+3183	0xC6F	inv
+3184	0xC70	inv
+3185	0xC71	inv
+3186	0xC72	inv
+3187	0xC73	inv
+3188	0xC74	inv
+3189	0xC75	inv
+3190	0xC76	inv
+3191	0xC77	inv
+3192	0xC78	inv
+3193	0xC79	inv
+3194	0xC7A	inv
+3195	0xC7B	inv
+3196	0xC7C	inv
+3197	0xC7D	inv
+3198	0xC7E	inv
+3199	0xC7F	inv
+3200	0xC80	inv
+3201	0xC81	inv
+3202	0xC82	inv
+3203	0xC83	inv
+3204	0xC84	inv
+3205	0xC85	inv
+3206	0xC86	inv
+3207	0xC87	inv
+3208	0xC88	inv
+3209	0xC89	inv
+3210	0xC8A	inv
+3211	0xC8B	inv
+3212	0xC8C	inv
+3213	0xC8D	inv
+3214	0xC8E	inv
+3215	0xC8F	inv
+3216	0xC90	inv
+3217	0xC91	inv
+3218	0xC92	inv
+3219	0xC93	inv
+3220	0xC94	inv
+3221	0xC95	inv
+3222	0xC96	inv
+3223	0xC97	inv
+3224	0xC98	inv
+3225	0xC99	inv
+3226	0xC9A	inv
+3227	0xC9B	inv
+3228	0xC9C	inv
+3229	0xC9D	inv
+3230	0xC9E	inv
+3231	0xC9F	inv
+3232	0xCA0	inv
+3233	0xCA1	inv
+3234	0xCA2	inv
+3235	0xCA3	inv
+3236	0xCA4	inv
+3237	0xCA5	inv
+3238	0xCA6	inv
+3239	0xCA7	inv
+3240	0xCA8	inv
+3241	0xCA9	inv
+3242	0xCAA	inv
+3243	0xCAB	inv
+3244	0xCAC	inv
+3245	0xCAD	inv
+3246	0xCAE	inv
+3247	0xCAF	inv
+3248	0xCB0	inv
+3249	0xCB1	inv
+3250	0xCB2	inv
+3251	0xCB3	inv
+3252	0xCB4	inv
+3253	0xCB5	inv
+3254	0xCB6	inv
+3255	0xCB7	inv
+3256	0xCB8	inv
+3257	0xCB9	inv
+3258	0xCBA	inv
+3259	0xCBB	inv
+3260	0xCBC	inv
+3261	0xCBD	inv
+3262	0xCBE	inv
+3263	0xCBF	inv
+3264	0xCC0	inv
+3265	0xCC1	inv
+3266	Raging Fists	unk
+3267	Furious Fists	unk
+3268	Punisher	unk
+3269	0xCC5	inv
+3270	0xCC6	inv
+3271	0xCC7	inv
+3272	0xCC8	inv
+3273	0xCC9	inv
+3274	0xCCA	inv
+3275	Return from Yomi	unk
+3276	Triple Link	unk
+3277	Quadruple Link	unk
+3278	Infinite Link	unk
+3279	0xCCF	inv
+3280	0xCD0	inv
+3281	0xCD1	inv
+3282	0xCD2	inv
+3283	0xCD3	inv
+3284	0xCD4	inv
+3285	0xCD5	inv
+3286	0xCD6	inv
+3287	0xCD7	inv
+3288	0xCD8	inv
+3289	0xCD9	inv
+3290	0xCDA	inv
+3291	0xCDB	inv
+3292	0xCDC	inv
+3293	0xCDD	inv
+3294	0xCDE	inv
+3295	0xCDF	inv
+3296	0xCE0	inv
+3297	0xCE1	inv
+3298	0xCE2	inv
+3299	0xCE3	inv
+3300	0xCE4	inv
+3301	0xCE5	inv
+3302	0xCE6	inv
+3303	0xCE7	inv
+3304	0xCE8	inv
+3305	0xCE9	inv
+3306	0xCEA	inv
+3307	0xCEB	inv
+3308	0xCEC	inv
+3309	0xCED	inv
+3310	0xCEE	inv
+3311	0xCEF	inv
+3312	0xCF0	inv
+3313	0xCF1	inv
+3314	0xCF2	inv
+3315	0xCF3	inv
+3316	0xCF4	inv
+3317	0xCF5	inv
+3318	0xCF6	inv
+3319	0xCF7	inv
+3320	0xCF8	inv
+3321	0xCF9	inv
+3322	0xCFA	inv
+3323	0xCFB	inv
+3324	0xCFC	inv
+3325	0xCFD	inv
+3326	0xCFE	inv
+3327	RESERVE	inv

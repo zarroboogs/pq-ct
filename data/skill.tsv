@@ -1,0 +1,1377 @@
+index	id	name	tag
+0	4096	BLANK	bln
+1	4097	Attack	unk
+2	4098	Agi	unk
+3	4099	Agilao	unk
+4	4100	Agidyne	unk
+5	4101	Maragi	unk
+6	4102	Maragion	unk
+7	4103	Maragidyne	unk
+8	4104	Fire Spray	unk
+9	4105	Ragnarok	unk
+10	4106	BLANK	inv
+11	4107	BLANK	inv
+12	4108	BLANK	inv
+13	4109	BLANK	inv
+14	4110	Garu	unk
+15	4111	Garula	unk
+16	4112	Garudyne	unk
+17	4113	Magaru	unk
+18	4114	Magarula	unk
+19	4115	Magarudyne	unk
+20	4116	Cyclone	unk
+21	4117	Panta Rhei	unk
+22	4118	BLANK	inv
+23	4119	BLANK	inv
+24	4120	BLANK	inv
+25	4121	BLANK	inv
+26	4122	Bufu	unk
+27	4123	Bufula	unk
+28	4124	Bufudyne	unk
+29	4125	Mabufu	unk
+30	4126	Mabufula	unk
+31	4127	Mabufudyne	unk
+32	4128	Icy Paradise	unk
+33	4129	Niflheim	unk
+34	4130	Frozen Spear	unk
+35	4131	BLANK	inv
+36	4132	BLANK	inv
+37	4133	BLANK	inv
+38	4134	BLANK	inv
+39	4135	Zio	unk
+40	4136	Zionga	unk
+41	4137	Ziodyne	unk
+42	4138	Mazio	unk
+43	4139	Mazionga	unk
+44	4140	Maziodyne	unk
+45	4141	BLANK	inv
+46	4142	Thunder Reign	unk
+47	4143	Keraunos	unk
+48	4144	Thunder Clap	unk
+49	4145	BLANK	inv
+50	4146	BLANK	inv
+51	4147	Megido	unk
+52	4148	Megidola	unk
+53	4149	Megidolaon	unk
+54	4150	BLANK	inv
+55	4151	Black Viper	unk
+56	4152	Morning Star	unk
+57	4153	BLANK	inv
+58	4154	BLANK	inv
+59	4155	BLANK	inv
+60	4156	BLANK	inv
+61	4157	Hama	unk
+62	4158	Hamaon	unk
+63	4159	Mahama	unk
+64	4160	Mahamaon	unk
+65	4161	BLANK	inv
+66	4162	BLANK	inv
+67	4163	Samsara	unk
+68	4164	BLANK	inv
+69	4165	BLANK	inv
+70	4166	BLANK	inv
+71	4167	BLANK	inv
+72	4168	Mudo	unk
+73	4169	Mudoon	unk
+74	4170	Mamudo	unk
+75	4171	Mamudoon	unk
+76	4172	BLANK	inv
+77	4173	BLANK	inv
+78	4174	Die For Me!	unk
+79	4175	BLANK	inv
+80	4176	BLANK	inv
+81	4177	BLANK	inv
+82	4178	BLANK	inv
+83	4179	Pulinpa	unk
+84	4180	Tentarafoo	unk
+85	4181	Poisma	unk
+86	4182	Poison Breath	unk
+87	4183	Gambit	unk
+88	4184	Flashbang	unk
+89	4185	Dormina	unk
+90	4186	Lullaby Song	unk
+91	4187	Evil Touch	unk
+92	4188	Evil Smile	unk
+93	4189	BLANK	inv
+94	4190	BLANK	inv
+95	4191	Heavy Gi	unk
+96	4192	Bracer of Might	unk
+97	4193	Sacrificial Idol	unk
+98	4194	Rudra Ring	unk
+99	4195	Chakra Ring	unk
+100	4196	Willow Wing	unk
+101	4197	Snowy Wing	unk
+102	4198	Enduring Wing	unk
+103	4199	Blazing Flame	unk
+104	4200	Frozen Stone	unk
+105	4201	Storm Ring	unk
+106	4202	Lightning Gloves	unk
+107	4203	Radiant Halo	unk
+108	4204	Ring of Darkness	unk
+109	4205	Bladed Plume	unk
+110	4206	Iron Pendant	unk
+111	4207	Helmet	unk
+112	4208	Omnipotent Orb	unk
+113	4209	BLANK	inv
+114	4210	Germanium Ring	unk
+115	4211	Scapegoat	unk
+116	4212	Body-Soul Reverse	unk
+117	4213	St-Ma Reverse	unk
+118	4214	St-En Reverse	unk
+119	4215	St-Ag Reverse	unk
+120	4216	St-Lu Reverse	unk
+121	4217	Ma-En Reverse	unk
+122	4218	Ma-Ag Reverse	unk
+123	4219	Ma-Lu Reverse	unk
+124	4220	En-Ag Reverse	unk
+125	4221	En-Lu Reverse	unk
+126	4222	Ag-Lu Reverse	unk
+127	4223	BLANK	inv
+128	4224	Physical Start	unk
+129	4225	Fang Smash	unk
+130	4226	Kidney Smash	unk
+131	4227	Cleave	unk
+132	4228	Twin Slash	unk
+133	4229	End Shot	unk
+134	4230	Double Shot	unk
+135	4231	Mighty Swing	unk
+136	4232	Fatal End	unk
+137	4233	Silent Thrust	unk
+138	4234	Swift Strike	unk
+139	4235	Frost Edge	unk
+140	4236	Zanshinken	unk
+141	4237	Zanshin Strike	unk
+142	4238	Death Needle	unk
+143	4239	Guillotine	unk
+144	4240	Tempest Slash	unk
+145	4241	Bolt Strike	unk
+146	4242	Holy Touch	unk
+147	4243	Revenge Blow	unk
+148	4244	Revenge Strike	unk
+149	4245	Gigantic Fist	unk
+150	4246	Single Shot	unk
+151	4247	Scarecrow	unk
+152	4248	Disarm	unk
+153	4249	Makajam	unk
+154	4250	Assault Shot	unk
+155	4251	Primal Force	unk
+156	4252	Heavy Shot	unk
+157	4253	Broadshot	unk
+158	4254	Myriad Arrows	unk
+159	4255	Punishment	unk
+160	4256	Assault Dive	unk
+161	4257	Sleeper Punch	unk
+162	4258	Teardrop	unk
+163	4259	Buchikamashi	unk
+164	4260	Deathbound	unk
+165	4261	Blade of Fury	unk
+166	4262	Glacial Edge	unk
+167	4263	Vorpal Blade	unk
+168	4264	Danse Macabre	unk
+169	4265	Skull Cracker	unk
+170	4266	Fusion Blast	unk
+171	4267	Heat Wave	unk
+172	4268	Light Wave	unk
+173	4269	Paralysis	unk
+174	4270	Brutal Slash	unk
+175	4271	Photon Edge	unk
+176	4272	Prana	unk
+177	4273	Heaven's Blade	unk
+178	4274	God's Hand	unk
+179	4275	Angelic Trumpet	unk
+180	4276	Hassou Tobi	unk
+181	4277	Hailstorm	unk
+182	4278	Arrow Rain	unk
+183	4279	Aeon Rain	unk
+184	4280	Blinding Slice	unk
+185	4281	Toxic Slice	unk
+186	4282	Dream Slice	unk
+187	4283	Stunning Slice	unk
+188	4284	Bane Slice	unk
+189	4285	Gurentou	unk
+190	4286	Tousatsujin	unk
+191	4287	Raikouzan	unk
+192	4288	Jinpugeki	unk
+193	4289	Shinkuuha	unk
+194	4290	Resseiha	unk
+195	4291	Pralaya	unk
+196	4292	Shadow Run	unk
+197	4293	World's End	unk
+198	4294	Raimeizan	unk
+199	4295	Raijinzan	unk
+200	4296	Gokuentou	unk
+201	4297	Hientou	unk
+202	4298	Reppu Strike	unk
+203	4299	Kamikaze Strike	unk
+204	4300	Hex Slice	unk
+205	4301	Soul Slice	unk
+206	4302	BLANK	inv
+207	4303	Physical End	unk
+208	4304	Support Start	unk
+209	4305	Dia	unk
+210	4306	Diarama	unk
+211	4307	Diarahan	unk
+212	4308	Recovery	unk
+213	4309	Life Goblet	unk
+214	4310	Media	unk
+215	4311	Mediarama	unk
+216	4312	Mediarahan	unk
+217	4313	Recarm	unk
+218	4314	Samarecarm	unk
+219	4315	Treatment	unk
+220	4316	Renewal	unk
+221	4317	Patra	unk
+222	4318	Refresh	unk
+223	4319	Me Patra	unk
+224	4320	Mutudi	unk
+225	4321	Becalm	unk
+226	4322	Mamutudi	unk
+227	4323	Amrita	unk
+228	4324	BLANK	inv
+229	4325	BLANK	inv
+230	4326	Bestial Roar	unk
+231	4327	Dragon Cry	unk
+232	4328	Improved Link	unk
+233	4329	Master Link	unk
+234	4330	Shadow Cloak	unk
+235	4331	Rampart	unk
+236	4332	Pain-Eater	unk
+237	4333	Safeguard	unk
+238	4334	Body Shield	unk
+239	4335	Life Wall	unk
+240	4336	True Warden	unk
+241	4337	Holy Blessing	unk
+242	4338	Guiding Sword	unk
+243	4339	Guarding Staff	unk
+244	4340	Spotter	unk
+245	4341	Critical Eye	unk
+246	4342	Makara Boost	unk
+247	4343	Matarukaja	unk
+248	4344	Marakukaja	unk
+249	4345	Masukukaja	unk
+250	4346	Power Charge	unk
+251	4347	Mind Charge	unk
+252	4348	Fire Blessing	unk
+253	4349	Ice Blessing	unk
+254	4350	Elec Blessing	unk
+255	4351	Wind Blessing	unk
+256	4352	Quick Order	unk
+257	4353	Daunting Stare	unk
+258	4354	Piercing Stare	unk
+259	4355	Tetra Down	unk
+260	4356	Makara Down	unk
+261	4357	Matarunda	unk
+262	4358	Marakunda	unk
+263	4359	Masukunda	unk
+264	4360	Rear Guard	unk
+265	4361	BLANK	inv
+266	4362	BLANK	inv
+267	4363	BLANK	inv
+268	4364	Stagnant Air	unk
+269	4365	Salome's Kiss	unk
+270	4366	BLANK	inv
+271	4367	BLANK	inv
+272	4368	BLANK	inv
+273	4369	Dekaja	unk
+274	4370	Dekunda	unk
+275	4371	Heat Sink	unk
+276	4372	Makatora	unk
+277	4373	Decoy Sign	unk
+278	4374	Fire Wall	unk
+279	4375	Wind Wall	unk
+280	4376	Ice Wall	unk
+281	4377	Elec Wall	unk
+282	4378	Light Wall	unk
+283	4379	Dark Wall	unk
+284	4380	Tarukaja	unk
+285	4381	Rakukaja	unk
+286	4382	Sukukaja	unk
+287	4383	Tarunda	unk
+288	4384	Rakunda	unk
+289	4385	Sukunda	unk
+290	4386	Debilitate	unk
+291	4387	Heat Riser	unk
+292	4388	Mind's Eye	unk
+293	4389	Door of Hades	unk
+294	4390	Call to Hades	unk
+295	4391	Calamity Seed	unk
+296	4392	Calamity Advent	unk
+297	4393	Lunar Blessing	unk
+298	4394	BLANK	inv
+299	4395	Healing Harp	unk
+300	4396	Healing Harp	unk
+301	4397	Lightning Smash	unk
+302	4398	Thunder Smash	unk
+303	4399	Scorching Blast	unk
+304	4400	Nuclear Blast	unk
+305	4401	Sonic Punch	unk
+306	4402	Brain Shake	unk
+307	4403	Moondrop	unk
+308	4404	Stardrop	unk
+309	4405	BLANK	inv
+310	4406	BLANK	inv
+311	4407	BLANK	inv
+312	4408	BLANK	inv
+313	4409	BLANK	inv
+314	4410	BLANK	inv
+315	4411	BLANK	inv
+316	4412	BLANK	inv
+317	4413	BLANK	inv
+318	4414	BLANK	inv
+319	4415	Support End	unk
+320	4416	Leader Start	unk
+321	4417	All-Out Attack	unk
+322	4418	Sutakora Foot	unk
+323	4419	Analyze	unk
+324	4420	Full Analysis	unk
+325	4421	Snake Glare	unk
+326	4422	Heroic Wind	unk
+327	4423	BLANK	inv
+328	4424	BLANK	inv
+329	4425	BLANK	inv
+330	4426	BLANK	inv
+331	4427	Harvest Prayer	unk
+332	4428	Cornucopia	unk
+333	4429	Healing Tide	unk
+334	4430	Healing Tide	unk
+335	4431	Renewal Ray	unk
+336	4432	Renewal Aura	unk
+337	4433	Healing Breeze	unk
+338	4434	Spotlight	unk
+339	4435	Yomi Return	unk
+340	4436	Third Eye	unk
+341	4437	Orb of Resolve	unk
+342	4438	Orb of Power	unk
+343	4439	Orb of Haste	unk
+344	4440	Life Aid	unk
+345	4441	Victory Cry	unk
+346	4442	Safety Prayer	unk
+347	4443	Calming Lull	unk
+348	4444	Spotter	unk
+349	4445	Magic Mallet	unk
+350	4446	Fanfare	unk
+351	4447	Into the Void	unk
+352	4448	Tidal Wave	unk
+353	4449	Oracle	unk
+354	4450	Oracle	unk
+355	4451	Oracle	unk
+356	4452	Oracle	unk
+357	4453	Oracle	unk
+358	4454	Oracle	unk
+359	4455	Healing Breeze	unk
+360	4456	Absolute Camera	unk
+361	4457	Prayer	unk
+362	4458	Vigilant Sonar	unk
+363	4459	Treasure Hunter	unk
+364	4460	Fortune Hunter	unk
+365	4461	Faerie's Vigil	unk
+366	4462	Tengu's Vigil	unk
+367	4463	Clairvoyance	unk
+368	4464	Farsight	unk
+369	4465	Purifying Rain	unk
+370	4466	Material Cache	unk
+371	4467	Zero Set	unk
+372	4468	Eternal Melody	unk
+373	4469	Lavish Gift	unk
+374	4470	Holy Gift	unk
+375	4471	BLANK	inv
+376	4472	BLANK	inv
+377	4473	Hunting Prayer	unk
+378	4474	Endless Bounty	unk
+379	4475	BLANK	inv
+380	4476	Alleys of Light	unk
+381	4477	Paths of Light	unk
+382	4478	Roads of Light	unk
+383	4479	BLANK	inv
+384	4480	Start	unk
+385	4481	Stun Circle	unk
+386	4482	Magic Circle	unk
+387	4483	Sleep Circle	unk
+388	4484	Magic Circle	unk
+389	4485	Poison Circle	unk
+390	4486	Magic Circle	unk
+391	4487	Panic Circle	unk
+392	4488	Magic Circle	unk
+393	4489	Silence Circle	unk
+394	4490	Magic Circle	unk
+395	4491	Decay Circle	unk
+396	4492	Magic Circle	unk
+397	4493	Lethargy Circle	unk
+398	4494	Magic Circle	unk
+399	4495	Summon Ghost	unk
+400	4496	Summon Demon	unk
+401	4497	Shura Tensei	unk
+402	4498	Shura Revert	unk
+403	4499	Shura Instincts	unk
+404	4500	Orgia Mode	unk
+405	4501	Mode Disengage	unk
+406	4502	Heal Memento	unk
+407	4503	Heal Memento	unk
+408	4504	Free Memento	unk
+409	4505	Free Memento	unk
+410	4506	Pure Memento	unk
+411	4507	Pure Memento	unk
+412	4508	Blessing of Relief	unk
+413	4509	Death Counter	unk
+414	4510	Death Counter	unk
+415	4511	Death Chaser	unk
+416	4512	Death Chaser	unk
+417	4513	Fierce Stance	unk
+418	4514	Fierce Stance	unk
+419	4515	Ferocious Stance	unk
+420	4516	Guard Stance	unk
+421	4517	Healing Step	unk
+422	4518	Wide Dance	unk
+423	4519	Rush Dance	unk
+424	4520	BLANK	inv
+425	4521	Flame Link	unk
+426	4522	Flame Link	unk
+427	4523	Frost Link	unk
+428	4524	Frost Link	unk
+429	4525	Bolt Link	unk
+430	4526	Bolt Link	unk
+431	4527	Gale Link	unk
+432	4528	Gale Link	unk
+433	4529	Pain Watcher	unk
+434	4530	Auto-Cloak	unk
+435	4531	Rush Dance	unk
+436	4532	Splash Blessing	unk
+437	4533	BLANK	inv
+438	4534	BLANK	inv
+439	4535	BLANK	inv
+440	4536	BLANK	inv
+441	4537	BLANK	inv
+442	4538	BLANK	inv
+443	4539	BLANK	inv
+444	4540	BLANK	inv
+445	4541	BLANK	inv
+446	4542	BLANK	inv
+447	4543	BLANK	inv
+448	4544	BLANK	inv
+449	4545	BLANK	inv
+450	4546	BLANK	inv
+451	4547	BLANK	inv
+452	4548	BLANK	inv
+453	4549	BLANK	inv
+454	4550	BLANK	inv
+455	4551	BLANK	inv
+456	4552	BLANK	inv
+457	4553	BLANK	inv
+458	4554	BLANK	inv
+459	4555	BLANK	inv
+460	4556	BLANK	inv
+461	4557	BLANK	inv
+462	4558	BLANK	inv
+463	4559	End	unk
+464	4560	Start	unk
+465	4561	Orgia Mastery	unk
+466	4562	Spy Arts	unk
+467	4563	Spy Expertise	unk
+468	4564	Pose	unk
+469	4565	Heroic Pose	unk
+470	4566	Hermit Arts	unk
+471	4567	Hermit Mastery	unk
+472	4568	Bloody Vanguard	unk
+473	4569	Deadly Vanguard	unk
+474	4570	Empress Arts	unk
+475	4571	Empress Mastery	unk
+476	4572	Squire Card	unk
+477	4573	Knight Card	unk
+478	4574	Soldier Arts	unk
+479	4575	Soldier Mastery	unk
+480	4576	Kung Fu Arts	unk
+481	4577	Kung Fu Mastery	unk
+482	4578	Wild Arts	unk
+483	4579	Wild Arts +	unk
+484	4580	Brave Soul	unk
+485	4581	Brave Soul +	unk
+486	4582	Rebel Spirit	unk
+487	4583	Uprising	unk
+488	4584	Circle Master	unk
+489	4585	Circle Virtuoso	unk
+490	4586	Brawler Arts	unk
+491	4587	Brawler Arts +	unk
+492	4588	Life Support	unk
+493	4589	Life Support +	unk
+494	4590	Stance Master	unk
+495	4591	Stance Virtuoso	unk
+496	4592	Raging Lion	unk
+497	4593	Raging Lion +	unk
+498	4594	Heroic Gemini	unk
+499	4595	Golden Gemini	unk
+500	4596	Runic Shield	unk
+501	4597	Aegis Shield	unk
+502	4598	Swordbreaker	unk
+503	4599	BLANK	inv
+504	4600	BLANK	inv
+505	4601	First Star	unk
+506	4602	Binding Hands	unk
+507	4603	Restoring Touch	unk
+508	4604	Warrior Title	unk
+509	4605	Conqueror Title	unk
+510	4606	Conqueror Arts	unk
+511	4607	Healing Hand	unk
+512	4608	Dia Guard	unk
+513	4609	Diarama Guard	unk
+514	4610	Colossal Swing	unk
+515	4611	Whirlwind Swing	unk
+516	4612	Golden Link	unk
+517	4613	Perception	unk
+518	4614	Forked Spear	unk
+519	4615	Trick Step	unk
+520	4616	Endure	unk
+521	4617	Nature's Grace	unk
+522	4618	Immunity Buffer	unk
+523	4619	Lemegeton	unk
+524	4620	Platinum Coin	unk
+525	4621	Absorb Fire	unk
+526	4622	Absorb Wind	unk
+527	4623	Absorb Ice	unk
+528	4624	Absorb Elec	unk
+529	4625	BLANK	inv
+530	4626	Fire Boost	unk
+531	4627	Ice Boost	unk
+532	4628	Elec Boost	unk
+533	4629	Wind Boost	unk
+534	4630	Fire Amp	unk
+535	4631	Ice Amp	unk
+536	4632	Elec Amp	unk
+537	4633	Wind Amp	unk
+538	4634	Overheat SP Boost	unk
+539	4635	Devotion Arts	unk
+540	4636	Devotion Mastery	unk
+541	4637	BLANK	inv
+542	4638	Death's Scythe	unk
+543	4639	Impure Reach	unk
+544	4640	BLANK	inv
+545	4641	Circle Recovery	unk
+546	4642	King Card	unk
+547	4643	Inferno Boost	unk
+548	4644	Tornado Boost	unk
+549	4645	Powerhouse	unk
+550	4646	BLANK	inv
+551	4647	SP Focus	unk
+552	4648	BLANK	inv
+553	4649	Target Boost	unk
+554	4650	Attack Boost I	unk
+555	4651	Attack Boost II	unk
+556	4652	Attack Boost III	unk
+557	4653	Defense Boost I	unk
+558	4654	Defense Boost II	unk
+559	4655	Defense Boost III	unk
+560	4656	Element Boost I	unk
+561	4657	Element Boost II	unk
+562	4658	Element Boost III	unk
+563	4659	Serene Journey	unk
+564	4660	Serene Quest	unk
+565	4661	Serene Pilgrimage	unk
+566	4662	Double Link	unk
+567	4663	BLANK	inv
+568	4664	Magic Boost I	unk
+569	4665	Magic Boost II	unk
+570	4666	Magic Boost III	unk
+571	4667	HP Boost	unk
+572	4668	HP Amp	unk
+573	4669	SP Boost	unk
+574	4670	SP Amp	unk
+575	4671	Agility Boost	unk
+576	4672	Agility Amp	unk
+577	4673	Resist Fire	unk
+578	4674	Resist Ice	unk
+579	4675	Resist Elec	unk
+580	4676	Resist Wind	unk
+581	4677	Resist Light	unk
+582	4678	Resist Dark	unk
+583	4679	Resist Cut	unk
+584	4680	Resist Bash	unk
+585	4681	Resist Stab	unk
+586	4682	Null Petrify	unk
+587	4683	Null Sleep	unk
+588	4684	Null Panic	unk
+589	4685	Null Poison	unk
+590	4686	BLANK	inv
+591	4687	Null Curse	unk
+592	4688	Null Paralysis	unk
+593	4689	BLANK	inv
+594	4690	Keburi no Sue	unk
+595	4691	Judgement Sword	unk
+596	4692	Judgement Sword	unk
+597	4693	Null M-Bind	unk
+598	4694	Null S-Bind	unk
+599	4695	Null A-Bind	unk
+600	4696	Demon's Cut	unk
+601	4697	Demon's Bash	unk
+602	4698	Demon's Stab	unk
+603	4699	God's Cut	unk
+604	4700	God's Bash	unk
+605	4701	God's Stab	unk
+606	4702	SP Recoil	unk
+607	4703	SP Redeemer	unk
+608	4704	Start	unk
+609	4705	Follow-Up	unk
+610	4706	Follow-Up	unk
+611	4707	Follow-Up	unk
+612	4708	Follow-Up	unk
+613	4709	Follow-Up	unk
+614	4710	Follow-Up	unk
+615	4711	Follow-Up	unk
+616	4712	Follow-Up	unk
+617	4713	Follow-Up	unk
+618	4714	Follow-Up	unk
+619	4715	Follow-Up	unk
+620	4716	Follow-Up	unk
+621	4717	Follow-Up	unk
+622	4718	Follow-Up	unk
+623	4719	Follow-Up	unk
+624	4720	Follow-Up	unk
+625	4721	Follow-Up	unk
+626	4722	Follow-Up	unk
+627	4723	Follow-Up	unk
+628	4724	Follow-Up	unk
+629	4725	BLANK	inv
+630	4726	BLANK	inv
+631	4727	BLANK	inv
+632	4728	BLANK	inv
+633	4729	BLANK	inv
+634	4730	BLANK	inv
+635	4731	BLANK	inv
+636	4732	BLANK	inv
+637	4733	BLANK	inv
+638	4734	BLANK	inv
+639	4735	End	unk
+640	4736	Start	unk
+641	4737	Medicine	unk
+642	4738	Oinment	unk
+643	4739	Antibiotic Gel	unk
+644	4740	Bead	unk
+645	4741	Soul Drop	unk
+646	4742	Snuff Soul	unk
+647	4743	Chewing Soul	unk
+648	4744	Soul Food	unk
+649	4745	Soma Droplet	unk
+650	4746	Soma Tear	unk
+651	4747	Revival Bead	unk
+652	4748	Balm of Life	unk
+653	4749	Emergency Kit	unk
+654	4750	Medical Kit	unk
+655	4751	Mutudi Gem	unk
+656	4752	Patra Gem	unk
+657	4753	Purifying Water	unk
+658	4754	Purifying Salt	unk
+659	4755	Bravant	unk
+660	4756	Stonard	unk
+661	4757	Cut Mist	unk
+662	4758	Bash Mist	unk
+663	4759	Stab Mist	unk
+664	4760	Fire Mist	unk
+665	4761	Ice Mist	unk
+666	4762	Elec Mist	unk
+667	4763	Wind Mist	unk
+668	4764	Blaze Oil	unk
+669	4765	Freeze Oil	unk
+670	4766	Shock Oil	unk
+671	4767	Cyclone Oil	unk
+672	4768	San-zun Tama	unk
+673	4769	Scorching Magatama	unk
+674	4770	Dry Ice	unk
+675	4771	Zero Magatama	unk
+676	4772	Tesla Coil	unk
+677	4773	Bolt Magatama	unk
+678	4774	Yashichi	unk
+679	4775	Storm Magatama	unk
+680	4776	Segaki Rice	unk
+681	4777	Curse Paper	unk
+682	4778	Poison Gas	unk
+683	4779	Paralysis Gas	unk
+684	4780	Vanish Ball	unk
+685	4781	Sleep Gas	unk
+686	4782	Curse Gas	unk
+687	4783	Panic Gas	unk
+688	4784	Analysis Scope	unk
+689	4785	Homunculus	unk
+690	4786	Disperse Amulet	unk
+691	4787	Summon Charm	unk
+692	4788	Goho-M	unk
+693	4789	Goba-K	unk
+694	4790	Winged Sandals	unk
+695	4791	Sight Beacon	unk
+696	4792	Soma	unk
+697	4793	Soma Jelly	unk
+698	4794	Bead Chain	unk
+699	4795	Dawn Charm	unk
+700	4796	Repulse Bell	unk
+701	4797	Attract Pipe	unk
+702	4798	Heal Stone	unk
+703	4799	End	unk
+704	4800	Ailment Boost	unk
+705	4801	Ailment Surge	unk
+706	4802	Raging Fists	unk
+707	4803	Furious Fists	unk
+708	4804	Punisher	unk
+709	4805	BLANK	inv
+710	4806	BLANK	inv
+711	4807	BLANK	inv
+712	4808	BLANK	inv
+713	4809	BLANK	inv
+714	4810	BLANK	inv
+715	4811	Return from Yomi	unk
+716	4812	Triple Link	unk
+717	4813	Quadruple Link	unk
+718	4814	Infinite Link	unk
+719	4815	Magic Aura	unk
+720	4816	Skill Boost	unk
+721	4817	Heroic Spring	unk
+722	4818	Circle Aura	unk
+723	4819	Healing Surge	unk
+724	4820	Stun Recovery	unk
+725	4821	Overheat	unk
+726	4822	Overheat End	unk
+727	4823	RESERVE	inv
+728	4824	RESERVE	inv
+729	4825	RESERVE	inv
+730	4826	RESERVE	inv
+731	4827	RESERVE	inv
+732	4828	RESERVE	inv
+733	4829	RESERVE	inv
+734	4830	RESERVE	inv
+735	4831	RESERVE	inv
+736	4832	RESERVE	inv
+737	4833	RESERVE	inv
+738	4834	RESERVE	inv
+739	4835	RESERVE	inv
+740	4836	RESERVE	inv
+741	4837	RESERVE	inv
+742	4838	RESERVE	inv
+743	4839	RESERVE	inv
+744	4840	RESERVE	inv
+745	4841	RESERVE	inv
+746	4842	RESERVE	inv
+747	4843	RESERVE	inv
+748	4844	RESERVE	inv
+749	4845	RESERVE	inv
+750	4846	RESERVE	inv
+751	4847	RESERVE	inv
+752	4848	RESERVE	inv
+753	4849	RESERVE	inv
+754	4850	RESERVE	inv
+755	4851	RESERVE	inv
+756	4852	RESERVE	inv
+757	4853	RESERVE	inv
+758	4854	RESERVE	inv
+759	4855	RESERVE	inv
+760	4856	RESERVE	inv
+761	4857	RESERVE	inv
+762	4858	RESERVE	inv
+763	4859	RESERVE	inv
+764	4860	RESERVE	inv
+765	4861	RESERVE	inv
+766	4862	RESERVE	inv
+767	4863	REVERSE/BLANK	???
+768	4864	BLANK	inv
+769	4865	Agi	unk
+770	4866	Agilao	unk
+771	4867	Agidyne	unk
+772	4868	Maragi	unk
+773	4869	Maragion	unk
+774	4870	Maragidyne	unk
+775	4871	Fire Dance	unk
+776	4872	BLANK	inv
+777	4873	BLANK	inv
+778	4874	BLANK	inv
+779	4875	Garu	unk
+780	4876	Garula	unk
+781	4877	Garudyne	unk
+782	4878	Magaru	unk
+783	4879	Magarula	unk
+784	4880	Magarudyne	unk
+785	4881	Wind Dance	unk
+786	4882	BLANK	inv
+787	4883	BLANK	inv
+788	4884	BLANK	inv
+789	4885	Bufu	unk
+790	4886	Bufula	unk
+791	4887	Bufudyne	unk
+792	4888	Mabufu	unk
+793	4889	Mabufula	unk
+794	4890	Mabufudyne	unk
+795	4891	Absolute Zero	unk
+796	4892	Ice Dance	unk
+797	4893	BLANK	inv
+798	4894	BLANK	inv
+799	4895	BLANK	inv
+800	4896	Zio	unk
+801	4897	Zionga	unk
+802	4898	Ziodyne	unk
+803	4899	Mazio	unk
+804	4900	Mazionga	unk
+805	4901	Maziodyne	unk
+806	4902	Keraunos	unk
+807	4903	Elec Dance	unk
+808	4904	BLANK	inv
+809	4905	BLANK	inv
+810	4906	BLANK	inv
+811	4907	Megido	unk
+812	4908	Megidola	unk
+813	4909	Megidolaon	unk
+814	4910	BLANK	inv
+815	4911	BLANK	inv
+816	4912	BLANK	inv
+817	4913	Hama	unk
+818	4914	Hamaon	unk
+819	4915	Mahama	unk
+820	4916	Mahamaon	unk
+821	4917	BLANK	inv
+822	4918	BLANK	inv
+823	4919	BLANK	inv
+824	4920	Mudo	unk
+825	4921	Mudoon	unk
+826	4922	Mamudo	unk
+827	4923	Mamudoon	unk
+828	4924	BLANK	inv
+829	4925	BLANK	inv
+830	4926	BLANK	inv
+831	4927	Poisma	unk
+832	4928	Poison Breath	unk
+833	4929	Stona	unk
+834	4930	Stone Mist	unk
+835	4931	Dormina	unk
+836	4932	Lullaby Song	unk
+837	4933	Pulinpa	unk
+838	4934	Tentarafoo	unk
+839	4935	BLANK	inv
+840	4936	BLANK	inv
+841	4937	Evil Touch	unk
+842	4938	Evil Smile	unk
+843	4939	Shibaboo	unk
+844	4940	Binding Cry	unk
+845	4941	Makajam	unk
+846	4942	Silent Song	unk
+847	4943	Disarm	unk
+848	4944	Muscle Down	unk
+849	4945	Scarecrow	unk
+850	4946	Spiderweb	unk
+851	4947	Self-Destruct	unk
+852	4948	BLANK	inv
+853	4949	BLANK	inv
+854	4950	BLANK	inv
+855	4951	BLANK	inv
+856	4952	BLANK	inv
+857	4953	BLANK	inv
+858	4954	BLANK	inv
+859	4955	BLANK	inv
+860	4956	BLANK	inv
+861	4957	BLANK	inv
+862	4958	BLANK	inv
+863	4959	BLANK	inv
+864	4960	BLANK	inv
+865	4961	BLANK	inv
+866	4962	BLANK	inv
+867	4963	BLANK	inv
+868	4964	BLANK	inv
+869	4965	BLANK	inv
+870	4966	BLANK	inv
+871	4967	BLANK	inv
+872	4968	BLANK	inv
+873	4969	BLANK	inv
+874	4970	BLANK	inv
+875	4971	BLANK	inv
+876	4972	BLANK	inv
+877	4973	BLANK	inv
+878	4974	BLANK	inv
+879	4975	BLANK	inv
+880	4976	BLANK	inv
+881	4977	BLANK	inv
+882	4978	BLANK	inv
+883	4979	BLANK	inv
+884	4980	BLANK	inv
+885	4981	BLANK	inv
+886	4982	BLANK	inv
+887	4983	BLANK	inv
+888	4984	BLANK	inv
+889	4985	BLANK	inv
+890	4986	BLANK	inv
+891	4987	BLANK	inv
+892	4988	BLANK	inv
+893	4989	BLANK	inv
+894	4990	BLANK	inv
+895	4991	BLANK	inv
+896	4992	BLANK	inv
+897	4993	Fang Smash	unk
+898	4994	Kidney Smash	unk
+899	4995	Cleave	unk
+900	4996	Twin Slash	unk
+901	4997	Lunge	unk
+902	4998	Twin Shot	unk
+903	4999	Mighty Swing	unk
+904	5000	Hard Slash	unk
+905	5001	Charge Shot	unk
+906	5002	Stab Shower	unk
+907	5003	Frost Edge	unk
+908	5004	Guillotine	unk
+909	5005	Tempest Slash	unk
+910	5006	Lightning Smash	unk
+911	5007	Drain Touch	unk
+912	5008	Gigantic Fist	unk
+913	5009	Single Shot	unk
+914	5010	Thorn Shackles	unk
+915	5011	Thorn Cuffs	unk
+916	5012	Thorn Chains	unk
+917	5013	Assault Shot	unk
+918	5014	Primal Force	unk
+919	5015	Heavy Shot	unk
+920	5016	Broadshot	unk
+921	5017	Myriad Arrows	unk
+922	5018	Megaton Press	unk
+923	5019	Brain Shake	unk
+924	5020	Stardrop	unk
+925	5021	Buchikamashi	unk
+926	5022	Spin Slash	unk
+927	5023	Blade of Fury	unk
+928	5024	Tousatsujin	unk
+929	5025	Vorpal Blade	unk
+930	5026	Crazed Slash	unk
+931	5027	Skull Cracker	unk
+932	5028	Scorching Blast	unk
+933	5029	Heat Wave	unk
+934	5030	Megaton Slam	unk
+935	5031	Megaton Slam	unk
+936	5032	Blinding Slice	unk
+937	5033	Toxic Slice	unk
+938	5034	Dream Slice	unk
+939	5035	Stunning Slice	unk
+940	5036	Bane Slice	unk
+941	5037	Mow Down	unk
+942	5038	Deathbound	unk
+943	5039	Torrent Shot	unk
+944	5040	Rampage	unk
+945	5041	BLANK	inv
+946	5042	BLANK	inv
+947	5043	BLANK	inv
+948	5044	BLANK	inv
+949	5045	BLANK	inv
+950	5046	BLANK	inv
+951	5047	BLANK	inv
+952	5048	BLANK	inv
+953	5049	BLANK	inv
+954	5050	BLANK	inv
+955	5051	BLANK	inv
+956	5052	BLANK	inv
+957	5053	BLANK	inv
+958	5054	BLANK	inv
+959	5055	BLANK	inv
+960	5056	BLANK	inv
+961	5057	BLANK	inv
+962	5058	BLANK	inv
+963	5059	BLANK	inv
+964	5060	BLANK	inv
+965	5061	BLANK	inv
+966	5062	BLANK	inv
+967	5063	BLANK	inv
+968	5064	BLANK	inv
+969	5065	BLANK	inv
+970	5066	BLANK	inv
+971	5067	BLANK	inv
+972	5068	BLANK	inv
+973	5069	BLANK	inv
+974	5070	BLANK	inv
+975	5071	BLANK	inv
+976	5072	BLANK	inv
+977	5073	Dia	unk
+978	5074	Diarama	unk
+979	5075	Diarahan	unk
+980	5076	BLANK	inv
+981	5077	BLANK	inv
+982	5078	Media	unk
+983	5079	Mediarama	unk
+984	5080	Mediarahan	unk
+985	5081	BLANK	inv
+986	5082	Samarecarm	unk
+987	5083	BLANK	inv
+988	5084	BLANK	inv
+989	5085	Patra	unk
+990	5086	BLANK	inv
+991	5087	BLANK	inv
+992	5088	Mutudi	unk
+993	5089	BLANK	inv
+994	5090	BLANK	inv
+995	5091	BLANK	inv
+996	5092	BLANK	inv
+997	5093	Bestial Roar	unk
+998	5094	BLANK	inv
+999	5095	BLANK	inv
+1000	5096	Rampart	unk
+1001	5097	Safeguard	unk
+1002	5098	BLANK	inv
+1003	5099	Life Wall	unk
+1004	5100	BLANK	inv
+1005	5101	BLANK	inv
+1006	5102	BLANK	inv
+1007	5103	BLANK	inv
+1008	5104	BLANK	inv
+1009	5105	BLANK	inv
+1010	5106	Matarukaja	unk
+1011	5107	Marakukaja	unk
+1012	5108	Masukukaja	unk
+1013	5109	Power Charge	unk
+1014	5110	Mind Charge	unk
+1015	5111	Fire Corrosion	unk
+1016	5112	Ice Corrosion	unk
+1017	5113	Elec Corrosion	unk
+1018	5114	Wind Corrosion	unk
+1019	5115	BLANK	inv
+1020	5116	BLANK	inv
+1021	5117	Matarunda	unk
+1022	5118	Marakunda	unk
+1023	5119	Masukunda	unk
+1024	5120	BLANK	inv
+1025	5121	Dekaja	unk
+1026	5122	Dekunda	unk
+1027	5123	BLANK	inv
+1028	5124	Escape	unk
+1029	5125		inv
+1030	5126		inv
+1031	5127	Tarukaja	unk
+1032	5128	Rakukaja	unk
+1033	5129	Sukukaja	unk
+1034	5130	Tarunda	unk
+1035	5131	Rakunda	unk
+1036	5132	Sukunda	unk
+1037	5133	BLANK	inv
+1038	5134	BLANK	inv
+1039	5135	BLANK	inv
+1040	5136	BLANK	inv
+1041	5137	BLANK	inv
+1042	5138	BLANK	inv
+1043	5139	BLANK	inv
+1044	5140	BLANK	inv
+1045	5141	BLANK	inv
+1046	5142	BLANK	inv
+1047	5143	BLANK	inv
+1048	5144	BLANK	inv
+1049	5145	BLANK	inv
+1050	5146	BLANK	inv
+1051	5147	BLANK	inv
+1052	5148	BLANK	inv
+1053	5149	BLANK	inv
+1054	5150	BLANK	inv
+1055	5151	BLANK	inv
+1056	5152	BLANK	inv
+1057	5153	BLANK	inv
+1058	5154	BLANK	inv
+1059	5155	BLANK	inv
+1060	5156	BLANK	inv
+1061	5157	BLANK	inv
+1062	5158	BLANK	inv
+1063	5159	BLANK	inv
+1064	5160	BLANK	inv
+1065	5161	BLANK	inv
+1066	5162	BLANK	inv
+1067	5163	BLANK	inv
+1068	5164	BLANK	inv
+1069	5165	BLANK	inv
+1070	5166	BLANK	inv
+1071	5167	BLANK	inv
+1072	5168	BLANK	inv
+1073	5169	Fire Boost	unk
+1074	5170	Ice Boost	unk
+1075	5171	Elec Boost	unk
+1076	5172	Wind Boost	unk
+1077	5173	Trick Step	unk
+1078	5174	Recovery Up	unk
+1079	5175	Phys Boost	unk
+1080	5176	Phys Boost II	unk
+1081	5177	Magic Boost	unk
+1082	5178	Magic Boost II	unk
+1083	5179	Wide Effect	unk
+1084	5180	Wide Effect II	unk
+1085	5181	Wide Effect III	unk
+1086	5182	Double Action	unk
+1087	5183	Double Action II	unk
+1088	5184	Double Action III	unk
+1089	5185	BLANK	inv
+1090	5186	BLANK	inv
+1091	5187	BLANK	inv
+1092	5188	BLANK	inv
+1093	5189	BLANK	inv
+1094	5190	BLANK	inv
+1095	5191	BLANK	inv
+1096	5192	BLANK	inv
+1097	5193	BLANK	inv
+1098	5194	BLANK	inv
+1099	5195	BLANK	inv
+1100	5196	BLANK	inv
+1101	5197	BLANK	inv
+1102	5198	BLANK	inv
+1103	5199	BLANK	inv
+1104	5200	BLANK	inv
+1105	5201	BLANK	inv
+1106	5202	BLANK	inv
+1107	5203	BLANK	inv
+1108	5204	BLANK	inv
+1109	5205	BLANK	inv
+1110	5206	BLANK	inv
+1111	5207	BLANK	inv
+1112	5208	BLANK	inv
+1113	5209	BLANK	inv
+1114	5210	BLANK	inv
+1115	5211	BLANK	inv
+1116	5212	BLANK	inv
+1117	5213	BLANK	inv
+1118	5214	BLANK	inv
+1119	5215	BLANK	inv
+1120	5216	BLANK	inv
+1121	5217	BLANK	inv
+1122	5218	BLANK	inv
+1123	5219	BLANK	inv
+1124	5220	BLANK	inv
+1125	5221	BLANK	inv
+1126	5222	BLANK	inv
+1127	5223	BLANK	inv
+1128	5224	BLANK	inv
+1129	5225	BLANK	inv
+1130	5226	BLANK	inv
+1131	5227	BLANK	inv
+1132	5228	BLANK	inv
+1133	5229	BLANK	inv
+1134	5230	BLANK	inv
+1135	5231	BLANK	inv
+1136	5232	BLANK	inv
+1137	5233	BLANK	inv
+1138	5234	BLANK	inv
+1139	5235	BLANK	inv
+1140	5236	BLANK	inv
+1141	5237	BLANK	inv
+1142	5238	BLANK	inv
+1143	5239	BLANK	inv
+1144	5240	BLANK	inv
+1145	5241	BLANK	inv
+1146	5242	BLANK	inv
+1147	5243	BLANK	inv
+1148	5244	BLANK	inv
+1149	5245	BLANK	inv
+1150	5246	BLANK	inv
+1151	5247	BLANK	inv
+1152	5248	BLANK	inv
+1153	5249	BLANK	inv
+1154	5250	BLANK	inv
+1155	5251	BLANK	inv
+1156	5252	BLANK	inv
+1157	5253	BLANK	inv
+1158	5254	BLANK	inv
+1159	5255	BLANK	inv
+1160	5256	BLANK	inv
+1161	5257	BLANK	inv
+1162	5258	BLANK	inv
+1163	5259	BLANK	inv
+1164	5260	BLANK	inv
+1165	5261	BLANK	inv
+1166	5262	BLANK	inv
+1167	5263	BLANK	inv
+1168	5264	BLANK	inv
+1169	5265	BLANK	inv
+1170	5266	BLANK	inv
+1171	5267	BLANK	inv
+1172	5268	BLANK	inv
+1173	5269	BLANK	inv
+1174	5270	BLANK	inv
+1175	5271	BLANK	inv
+1176	5272	BLANK	inv
+1177	5273	BLANK	inv
+1178	5274	BLANK	inv
+1179	5275	BLANK	inv
+1180	5276	BLANK	inv
+1181	5277	BLANK	inv
+1182	5278	BLANK	inv
+1183	5279	BLANK	inv
+1184	5280	BLANK	inv
+1185	5281	Soldier Summon	unk
+1186	5282	Reinforcements	unk
+1187	5283	BLANK	inv
+1188	5284	Holy Wrath	unk
+1189	5285	Vow	unk
+1190	5286	BLANK	inv
+1191	5287	BLANK	inv
+1192	5288	BLANK	inv
+1193	5289	BLANK	inv
+1194	5290	BLANK	inv
+1195	5291	BLANK	inv
+1196	5292	BLANK	inv
+1197	5293	BLANK	inv
+1198	5294	BLANK	inv
+1199	5295	Drastic Measure	unk
+1200	5296	Endure	unk
+1201	5297	Rabbit's Foot	unk
+1202	5298	Deafening Roar	unk
+1203	5299	BLANK	inv
+1204	5300	Gears of Time	unk
+1205	5301	Time Warp	unk
+1206	5302	Death Sentence	unk
+1207	5303	Time Reversal	unk
+1208	5304	Time Stop	unk
+1209	5305	BLANK	inv
+1210	5306		inv
+1211	5307	BLANK	inv
+1212	5308		inv
+1213	5309	BLANK	inv
+1214	5310	BLANK	inv
+1215	5311	BLANK	inv
+1216	5312	BLANK	inv
+1217	5313	BLANK	inv
+1218	5314	BLANK	inv
+1219	5315	BLANK	inv
+1220	5316	BLANK	inv
+1221	5317	BLANK	inv
+1222	5318	BLANK	inv
+1223	5319	BLANK	inv
+1224	5320	BLANK	inv
+1225	5321	BLANK	inv
+1226	5322	All-Out Attack	unk
+1227	5323	Megidolaon	unk
+1228	5324	BLANK	inv
+1229	5325	BLANK	inv
+1230	5326	BLANK	inv
+1231	5327	BLANK	inv
+1232	5328	BLANK	inv
+1233	5329	BLANK	inv
+1234	5330	BLANK	inv
+1235	5331	BLANK	inv
+1236	5332	BLANK	inv
+1237	5333	BLANK	inv
+1238	5334	BLANK	inv
+1239	5335	BLANK	inv
+1240	5336	BLANK	inv
+1241	5337	BLANK	inv
+1242	5338	BLANK	inv
+1243	5339	BLANK	inv
+1244	5340	BLANK	inv
+1245	5341	BLANK	inv
+1246	5342	BLANK	inv
+1247	5343	BLANK	inv
+1248	5344	BLANK	inv
+1249	5345	BLANK	inv
+1250	5346	BLANK	inv
+1251	5347	BLANK	inv
+1252	5348	BLANK	inv
+1253	5349	BLANK	inv
+1254	5350	BLANK	inv
+1255	5351	BLANK	inv
+1256	5352	BLANK	inv
+1257	5353	BLANK	inv
+1258	5354	BLANK	inv
+1259	5355	BLANK	inv
+1260	5356	BLANK	inv
+1261	5357	BLANK	inv
+1262	5358	BLANK	inv
+1263	5359	BLANK	inv
+1264	5360	BLANK	inv
+1265	5361	BLANK	inv
+1266	5362	BLANK	inv
+1267	5363	BLANK	inv
+1268	5364	BLANK	inv
+1269	5365	BLANK	inv
+1270	5366	BLANK	inv
+1271	5367	BLANK	inv
+1272	5368	BLANK	inv
+1273	5369	BLANK	inv
+1274	5370	BLANK	inv
+1275	5371	BLANK	inv
+1276	5372	BLANK	inv
+1277	5373	BLANK	inv
+1278	5374	BLANK	inv
+1279	5375	BLANK	inv
+1280	5376	BLANK	inv
+1281	5377	BLANK	inv
+1282	5378	BLANK	inv
+1283	5379	BLANK	inv
+1284	5380	BLANK	inv
+1285	5381	BLANK	inv
+1286	5382	BLANK	inv
+1287	5383	BLANK	inv
+1288	5384	BLANK	inv
+1289	5385	BLANK	inv
+1290	5386	BLANK	inv
+1291	5387	BLANK	inv
+1292	5388	BLANK	inv
+1293	5389	BLANK	inv
+1294	5390	BLANK	inv
+1295	5391	BLANK	inv
+1296	5392	BLANK	inv
+1297	5393	BLANK	inv
+1298	5394	BLANK	inv
+1299	5395	BLANK	inv
+1300	5396	BLANK	inv
+1301	5397	BLANK	inv
+1302	5398	BLANK	inv
+1303	5399	BLANK	inv
+1304	5400	BLANK	inv
+1305	5401	BLANK	inv
+1306	5402	BLANK	inv
+1307	5403	BLANK	inv
+1308	5404	BLANK	inv
+1309	5405	BLANK	inv
+1310	5406	BLANK	inv
+1311	5407	BLANK	inv
+1312	5408	BLANK	inv
+1313	5409	BLANK	inv
+1314	5410	BLANK	inv
+1315	5411	BLANK	inv
+1316	5412	BLANK	inv
+1317	5413	BLANK	inv
+1318	5414	BLANK	inv
+1319	5415	BLANK	inv
+1320	5416	BLANK	inv
+1321	5417	BLANK	inv
+1322	5418	BLANK	inv
+1323	5419	BLANK	inv
+1324	5420	BLANK	inv
+1325	5421	BLANK	inv
+1326	5422	BLANK	inv
+1327	5423	BLANK	inv
+1328	5424	BLANK	inv
+1329	5425	BLANK	inv
+1330	5426	BLANK	inv
+1331	5427	BLANK	inv
+1332	5428	BLANK	inv
+1333	5429	BLANK	inv
+1334	5430	BLANK	inv
+1335	5431	BLANK	inv
+1336	5432	BLANK	inv
+1337	5433	BLANK	inv
+1338	5434	BLANK	inv
+1339	5435	BLANK	inv
+1340	5436	BLANK	inv
+1341	5437	BLANK	inv
+1342	5438	BLANK	inv
+1343	5439	BLANK	inv
+1344	5440	BLANK	inv
+1345	5441	BLANK	inv
+1346	5442	BLANK	inv
+1347	5443	BLANK	inv
+1348	5444	BLANK	inv
+1349	5445	BLANK	inv
+1350	5446	BLANK	inv
+1351	5447	BLANK	inv
+1352	5448	BLANK	inv
+1353	5449	BLANK	inv
+1354	5450	BLANK	inv
+1355	5451	BLANK	inv
+1356	5452	BLANK	inv
+1357	5453	BLANK	inv
+1358	5454	BLANK	inv
+1359	5455	BLANK	inv
+1360	5456	BLANK	inv
+1361	5457	BLANK	inv
+1362	5458	BLANK	inv
+1363	5459	BLANK	inv
+1364	5460	BLANK	inv
+1365	5461	BLANK	inv
+1366	5462	BLANK	inv
+1367	5463	BLANK	inv
+1368	5464	BLANK	inv
+1369	5465	BLANK	inv
+1370	5466	BLANK	inv
+1371	5467	BLANK	inv
+1372	5468	BLANK	inv
+1373	5469	BLANK	inv
+1374	5470	BLANK	inv
+1375	5471	BLANK	inv
