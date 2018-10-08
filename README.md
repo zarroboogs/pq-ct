@@ -10,7 +10,7 @@ __NOTE:__ The table is mostly dynamically generated, due to some limitations ope
 ## Prerequisites
 
 * Latest Cheat Engine release.
-* Latest Citra release, preferably _nightly-mingw_, however canary\msvc builds should also work.
+* Latest Citra release, preferably _nightly-mingw_, however canary/msvc builds should also work.
 * Persona Q. This table has been tested with the undubbed US version, `CTR-AQQE`, together with the undubbed DLC.
 
 ## Installation
