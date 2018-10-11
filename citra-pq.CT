@@ -104,7 +104,6 @@ updateSymbol("_ptrSPBooks", "[[_base]+8*5ce]+6a8", true)
           <Description>"Lists"</Description>
           <Options moHideChildren="1" moManualExpandCollapse="1"/>
           <GroupHeader>1</GroupHeader>
-          <CheatEntries/>
         </CheatEntry>
         <CheatEntry>
           <ID>4</ID>
@@ -160,7 +159,6 @@ updateSymbol("_ptrSPBooks", "[[_base]+8*5ce]+6a8", true)
                     <CheatEntry>
                       <ID>12</ID>
                       <Description>"bIsDead"</Description>
-                      <DropDownListLink>lstItem</DropDownListLink>
                       <VariableType>2 Bytes</VariableType>
                       <Address>+8</Address>
                     </CheatEntry>
@@ -1016,7 +1014,6 @@ tmp.destroy()
 {$asm}
 
 </AssemblerScript>
-          <CheatEntries/>
         </CheatEntry>
         <CheatEntry>
           <ID>135</ID>
@@ -1050,7 +1047,6 @@ tmp.destroy()
 {$asm}
 
 </AssemblerScript>
-          <CheatEntries/>
         </CheatEntry>
       </CheatEntries>
     </CheatEntry>
@@ -1139,7 +1135,6 @@ end
 {$asm}
 
 </AssemblerScript>
-      <CheatEntries/>
     </CheatEntry>
     <CheatEntry>
       <ID>145</ID>
@@ -1250,7 +1245,6 @@ tmp.destroy()
 {$asm}
 
 </AssemblerScript>
-      <CheatEntries/>
     </CheatEntry>
     <CheatEntry>
       <ID>150</ID>
@@ -1288,7 +1282,6 @@ tmp.destroy()
 {$asm}
 
 </AssemblerScript>
-      <CheatEntries/>
     </CheatEntry>
     <CheatEntry>
       <ID>151</ID>
@@ -1322,7 +1315,6 @@ tmp.destroy()
 {$asm}
 
 </AssemblerScript>
-      <CheatEntries/>
     </CheatEntry>
     <CheatEntry>
       <ID>152</ID>
@@ -1439,7 +1431,6 @@ end
 {$asm}
 
 </AssemblerScript>
-      <CheatEntries/>
     </CheatEntry>
     <CheatEntry>
       <ID>160</ID>
@@ -1494,7 +1485,6 @@ tmp.destroy()
 {$asm}
 
 </AssemblerScript>
-      <CheatEntries/>
     </CheatEntry>
     <CheatEntry>
       <ID>161</ID>
@@ -1551,10 +1541,8 @@ addDDLRef(memrec, false, "lstEnemy", mrByDesc("^Combatant ID"))
 {$asm}
 
 </AssemblerScript>
-      <CheatEntries/>
     </CheatEntry>
   </CheatEntries>
-  <UserdefinedSymbols/>
   <LuaScript>---------------------------
 -- Persona Q Cheat Table --
 ---------------------------
