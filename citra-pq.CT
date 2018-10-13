@@ -1057,6 +1057,19 @@ tmp.destroy()
       <GroupHeader>1</GroupHeader>
       <CheatEntries>
         <CheatEntry>
+          <ID>366</ID>
+          <Description>"Passive Effect Steps"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>[[_base]+8*5a9]+890</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>367</ID>
+          <Description>"Passive Effect"</Description>
+          <DropDownListLink>lstSkill</DropDownListLink>
+          <VariableType>2 Bytes</VariableType>
+          <Address>[[_base]+8*5a9]+89c</Address>
+        </CheatEntry>
+        <CheatEntry>
           <ID>137</ID>
           <Description>"Enemies Defeated"</Description>
           <VariableType>4 Bytes</VariableType>
@@ -1088,7 +1101,7 @@ tmp.destroy()
         </CheatEntry>
         <CheatEntry>
           <ID>142</ID>
-          <Description>"Hit Meter"</Description>
+          <Description>"Party Gauge"</Description>
           <VariableType>4 Bytes</VariableType>
           <Address>[[_base]+8*5b1]+848</Address>
         </CheatEntry>
@@ -1213,6 +1226,43 @@ invTimer.Enabled = true
       </CheatEntries>
     </CheatEntry>
     <CheatEntry>
+      <ID>377</ID>
+      <Description>"Materials Sold"</Description>
+      <Options moHideChildren="1" moManualExpandCollapse="1"/>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript>[ENABLE]
+{$lua}
+
+if syntaxcheck then return end
+
+local rec = memrec
+if not reset(rec) then return end
+
+local addr = getAddress("[[_base]+8*5ab]+c88")
+local matStart, matEnd = 1792 + 1, 2560
+
+for i = 0, matEnd - matStart do
+  local t = tab.item[matStart + i]
+  if t ~= nil and t.tag == "unk" then
+    local r1 = mrNew()
+    r1.appendToEntry(rec)
+    r1.Type = vtByte
+    r1.Address = h(addr + i)
+    r1.Description = string.format("%04d. %s [%s]", t.id, t.name, t.tag)
+    r1.DontSave = true
+  end
+end
+
+{$asm}
+
+[DISABLE]
+{$lua}
+
+{$asm}
+
+</AssemblerScript>
+    </CheatEntry>
+    <CheatEntry>
       <ID>149</ID>
       <Description>"Character Stats"</Description>
       <Options moHideChildren="1" moManualExpandCollapse="1"/>
@@ -1318,7 +1368,7 @@ tmp.destroy()
     </CheatEntry>
     <CheatEntry>
       <ID>152</ID>
-      <Description>"Hero Names"</Description>
+      <Description>"Hero Names - Display"</Description>
       <Options moHideChildren="1" moManualExpandCollapse="1"/>
       <GroupHeader>1</GroupHeader>
       <CheatEntries>
@@ -1381,6 +1431,54 @@ tmp.destroy()
           <CodePage>0</CodePage>
           <ZeroTerminate>1</ZeroTerminate>
           <Address>_ptrNames+62</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>933</ID>
+      <Description>"Hero Names - Saved"</Description>
+      <Options moHideChildren="1" moManualExpandCollapse="1"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>935</ID>
+          <Description>"P3 Hero Last Name"</Description>
+          <VariableType>String</VariableType>
+          <Length>14</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>[[_base]+8*5b1]+858-E+2</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>936</ID>
+          <Description>"P3 Hero First Name"</Description>
+          <VariableType>String</VariableType>
+          <Length>14</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>[[_base]+8*5b1]+858+2</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>937</ID>
+          <Description>"P4 Hero Last Name"</Description>
+          <VariableType>String</VariableType>
+          <Length>14</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>[[_base]+8*5b1]+858+2+E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>938</ID>
+          <Description>"P4 Hero First Name"</Description>
+          <VariableType>String</VariableType>
+          <Length>14</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>[[_base]+8*5b1]+858+2+E+E</Address>
         </CheatEntry>
       </CheatEntries>
     </CheatEntry>
