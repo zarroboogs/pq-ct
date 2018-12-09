@@ -13,27 +13,21 @@
 
 if syntaxcheck then return end
 
-local function srch(bytes)
-  local results = AOBScan(bytes, "+X-C-W", 2, "0")
+local bytes = "48 8B 0D ???????? 8D 14 C5 00000000"
+local results = AOBScan(bytes, "+X-C-W", 0, "")
 
-  if results.Count == 0 then
-    results.destroy()
-    return
-  end
-
-  local addr = results[0]
+if results.Count == 0 then
   results.destroy()
-
-  local ptr = readInteger(addr .. "+3")
-  local off = getAddress(string.format("%s+7-citra-qt.exe+%x", addr, ptr))
-
-  return off
+  return
 end
 
-local bytes = "48 8B 05 ???????? C3 0F1F 84 00 00000000"
-local off = srch(bytes)
+local addr = results[0]
+results.destroy()
+
+local ptr = readInteger(addr .. "+3")
+local off = getAddress(string.format("%s+7-citra-qt.exe+%x", addr, ptr))
 if not off then return end
-updateSymbol("_base", string.format("citra-qt.exe+%x", off), true)
+updateSymbol("_base", string.format("[[citra-qt.exe+%x]]+18", off), true)
 
 updateSymbol("_ptrBattleMainProc", "[[_base]+8*4fa]+228",  true)
 updateSymbol("_ptrNames",          "[[_base]+8*5a5]+988",  true)
@@ -49,10 +43,7 @@ updateSymbol("_ptrInv",            "[[_base]+8*822b]+364", true)
 updateSymbol("_ptrStatsTable",     "[[_base]+8*849a]+b00", true)
 updateSymbol("_ptrSkillTable",     "[[_base]+8*853e]+800", true)
 
-local bytes2 = "48 8D 15 ???????? 48 01 D0 8B 18"
-local off2 = srch(bytes2)
-if not off2 then return end
-updateSymbol("_basex", string.format("citra-qt.exe+%x", off2), true)
+updateSymbol("_basex", string.format("[[citra-qt.exe+%x]]", off), true)
 
 resetRec = {}
 
@@ -878,7 +869,7 @@ frmComp.Hide()
                       <CheatEntries>
                         <CheatEntry>
                           <ID>104</ID>
-                          <Description>"FILL,19,dsSPCharStats,"</Description>
+                          <Description>"FILL,19,dsSPCharStats,,Char"</Description>
                           <VariableType>4 Bytes</VariableType>
                           <Address>+88</Address>
                         </CheatEntry>
@@ -1421,10 +1412,10 @@ reset(rec)
 
 if rec.Count == 0 then
   local r0 = popDS(mrDesc("dsSPStats"), "+[[_base]+8*5b3]+590")
-  r0.Description = "Own Book"
+  r0.appendToEntry(rec)
   r0.DontSave = true
 
-  r0.appendToEntry(rec)
+  r0.Description = "Own Book"
 end
 
 local max = readInteger("+[[_base]+8*5d4]+918") + 1
@@ -1548,9 +1539,10 @@ if ptr2 then
       unregisterSymbol("_party" .. sym)
       registerSymbol("_party" .. sym, ptr3, true)
 
-      local x = readInteger(string.format("%s+8+4*%x", ptr2, i)) + getAddress("_basex")
+      local a = readInteger(string.format("%s+8+4*%x", ptr2, i)) &amp; 0x0fffffff
+      local b = getAddress("[_basex]") -- [rdx]
       unregisterSymbol("_partyx" .. sym)
-      registerSymbol("_partyx" .. sym, x &amp; 0x0fffffff, true)
+      registerSymbol("_partyx" .. sym, b + a, true)
 
       sym = sym + 1
     end
@@ -1619,9 +1611,10 @@ if ptr2 then
       unregisterSymbol("_enemy" .. sym)
       registerSymbol("_enemy" .. sym, ptr3, true)
 
-      local x = readInteger(string.format("%s+8+4*%x", ptr2, i)) + getAddress("_basex")
+      local a = readInteger(string.format("%s+8+4*%x", ptr2, i)) &amp; 0x0fffffff
+      local b = getAddress("[_basex]") -- [rdx]
       unregisterSymbol("_enemyx" .. sym)
-      registerSymbol("_enemyx" .. sym, x &amp; 0x0fffffff, true)
+      registerSymbol("_enemyx" .. sym, b + a, true)
 
       sym = sym + 1
     end
@@ -1690,7 +1683,7 @@ end
 -- MemoryRecord Stuff --
 ------------------------
 
---- returns a memory record by description.
+--- returns a memory record by description
 function mrDesc(desc)
   return getAddressList().getMemoryRecordByDescription(desc)
 end
